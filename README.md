@@ -55,9 +55,11 @@ them. The comparison and its reading are in `docs/experiments_comparison.md`.
 
 ## Checkpoints
 
-The best checkpoint of every run is downloaded locally to
-`outputs/checkpoints/<experiment>/student_best.pth` (98.6 MB each, git ignored
-because of their size).
+The best checkpoint of every run is available for direct download on GitHub Releases:
+* 📦 **[GitHub Release v1.0.0 Checkpoints](https://github.com/AimenAbdesslame/esam-distillation/releases/tag/v1.0.0)**
+  * `exp1_all_layers_student_best.pth` (94 MB)
+  * `exp2_frozen_shared_student_best.pth` (94 MB)
+  * `exp3_frozen_gt_targets_student_best.pth` (94 MB)
 
 ## Pipeline
 
