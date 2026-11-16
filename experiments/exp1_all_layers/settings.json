@@ -1,0 +1,13 @@
+{
+  "id": "exp1_all_layers",
+  "title": "ESAM exp1 all layers",
+  "why": "Baseline experiment. The published ESAM-E weights are copied into the ESAM++ student wherever the tensors match (103 of 400, all of them in the shared layers), the TinyExpert backbone stays random, and the whole model is trained for 110 minutes on the ESAM-E pseudo instances. This measures what happens when the pretrained shared layers are allowed to drift while the new backbone is still random.",
+  "env": {
+    "ESAM_FREEZE_SHARED": "0",
+    "ESAM_TARGET": "teacher",
+    "ESAM_MAX_MINUTES": "110",
+    "ESAM_LR": "0.001"
+  },
+  "student_dir": "distill/student_all",
+  "name": "ESAM++ Tiny student - all layers trained"
+}

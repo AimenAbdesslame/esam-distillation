@@ -1,0 +1,13 @@
+{
+  "id": "exp2_frozen_shared",
+  "title": "ESAM exp2 frozen shared",
+  "why": "Official ESAM++ recipe. Same teacher, same frames, same split, same 110 minute budget as exp1, but every shared layer (super point pooling, query decoder, merge head) stays frozen with its published ESAM-E weights and only the TinyExpert backbone is trained. The pretrained decoder is then never dragged away by a random backbone, which is the hypothesis this experiment tests.",
+  "env": {
+    "ESAM_FREEZE_SHARED": "1",
+    "ESAM_TARGET": "teacher",
+    "ESAM_MAX_MINUTES": "110",
+    "ESAM_LR": "0.001"
+  },
+  "student_dir": "distill/student_frozen",
+  "name": "ESAM++ Tiny student - shared layers frozen"
+}

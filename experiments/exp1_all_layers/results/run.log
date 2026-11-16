@@ -1,0 +1,3718 @@
+/usr/local/lib/python3.13/dist-packages/nbformat/validator.py:434: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  _validate(nbdict, ref, version, version_minor, relax_add_props)
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+restoring saved environment
+
+gzip: stdin: unexpected end of file
+tar: Unexpected EOF in archive
+tar: Unexpected EOF in archive
+tar: Error is not recoverable: exiting now
+torch 1.13.1+cu116 | ME 0.5.4 | cuda True
+ready: 1.13.1+cu116 0.5.4 cuda True
+/dev/loop2       20G   12G  7.8G  61% /kaggle/working
+-rw-r--r-- 1 root root  13K Nov 12 18:47 /kaggle/working/tools/esampp_tiny_scenenn.py
+
+/kaggle/working/tools/esampp_src:
+total 24K
+-rw-r--r-- 1 root root  11K Nov 12 18:47 backbone.py
+-rw-r--r-- 1 root root    0 Nov 12 18:47 __init__.py
+-rw-r--r-- 1 root root 8.1K Nov 12 18:47 mink_unet.py
+Cloning into '/kaggle/working/esamplusplus'...
+
+Cloning into '/kaggle/working/esamplusplus'...
+streaming SceneNN part 0: point, ins, pose
+tar: Unexpected EOF in archive
+tar: Error is not recoverable: exiting now
+point/ins npy count: 110 / 110
+/dev/loop2       20G   12G  7.7G  62% /kaggle/working
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   914  100   914    0     0   7978      0 --:--:-- --:--:-- --:--:--  8017
+  0 2048M    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0 2048M    0 18.9M    0     0  14.0M      0  0:02:26  0:00:01  0:02:25  149M  9 2048M    9  191M    0     0  81.1M      0  0:00:25  0:00:02  0:00:23  169M 18 2048M   18  370M    0     0   110M      0  0:00:18  0:00:03  0:00:15  174M 24 2048M   24  508M    0     0   116M      0  0:00:17  0:00:04  0:00:13  162M 30 2048M   30  616M    0     0   115M      0  0:00:17  0:00:05  0:00:12  149M 37 2048M   37  771M    0     0   121M      0  0:00:16  0:00:06  0:00:10  150M 46 2048M   46  962M    0     0   130M      0  0:00:15  0:00:07  0:00:08  154M 56 2048M   56 1160M    0     0   138M      0  0:00:14  0:00:08  0:00:06  158M 65 2048M   65 1343M    0     0   141M      0  0:00:14  0:00:09  0:00:05  162M 73 2048M   73 1506M    0     0   145M      0  0:00:14  0:00:10  0:00:04  177M 84 2048M   84 1723M    0     0   151M      0  0:00:13  0:00:11  0:00:02  190M 94 2048M   94 1942M    0     0   157M      0  0:00:13  0:00:12  0:00:01  195M100 2048M  100 2048M    0     0   160M      0  0:00:12  0:00:12 --:--:--  199M
+
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   914  100   914    0     0   7978      0 --:--:-- --:--:-- --:--:--  8017
+  0 2048M    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0 2048M    0 18.9M    0     0  14.0M      0  0:02:26  0:00:01  0:02:25  149M  9 2048M    9  191M    0     0  81.1M      0  0:00:25  0:00:02  0:00:23  169M 18 2048M   18  370M    0     0   110M      0  0:00:18  0:00:03  0:00:15  174M 24 2048M   24  508M    0     0   116M      0  0:00:17  0:00:04  0:00:13  162M 30 2048M   30  616M    0     0   115M      0  0:00:17  0:00:05  0:00:12  149M 37 2048M   37  771M    0     0   121M      0  0:00:16  0:00:06  0:00:10  150M 46 2048M   46  962M    0     0   130M      0  0:00:15  0:00:07  0:00:08  154M 56 2048M   56 1160M    0     0   138M      0  0:00:14  0:00:08  0:00:06  158M 65 2048M   65 1343M    0     0   141M      0  0:00:14  0:00:09  0:00:05  162M 73 2048M   73 1506M    0     0   145M      0  0:00:14  0:00:10  0:00:04  177M 84 2048M   84 1723M    0     0   151M      0  0:00:13  0:00:11  0:00:02  190M 94 2048M   94 1942M    0     0   157M      0  0:00:13  0:00:12  0:00:01  195M100 2048M  100 2048M    0     0   160M      0  0:00:12  0:00:12 --:--:--  199M
+prepared 20/80 frames
+prepared 40/80 frames
+prepared 60/80 frames
+prepared 80/80 frames
+frames ready: /kaggle/working/distill/frames
+-rw-r--r-- 1 root root 399K Nov 12 18:51 frame_0076.npz
+-rw-r--r-- 1 root root 392K Nov 12 18:51 frame_0077.npz
+-rw-r--r-- 1 root root 390K Nov 12 18:51 frame_0078.npz
+-rw-r--r-- 1 root root 394K Nov 12 18:51 frame_0079.npz
+-rw-r--r-- 1 root root  897 Nov 12 18:51 meta.json
+/dev/loop2       20G   12G  7.6G  62% /kaggle/working
+/kaggle/working/mc/envs/ESAM/lib/python3.8/site-packages/mmdet3d/evaluation/functional/kitti_utils/eval.py:10: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  def get_thresholds(scores: np.ndarray, num_gt, num_sample_pts=41):
+Loads checkpoint by local backend from path: /kaggle/working/ESAM/work_dirs/ckpt/ESAM-E_CA_online_epoch_128.pth
+teacher frame 20/80
+teacher frame 40/80
+teacher frame 60/80
+teacher frame 80/80
+teacher AP (val): {'AP': 0.03201509867846464, 'AP50': 0.054653140304581016, 'AP25': 0.07298618344957553, 'frames': 40}
+gate: {'ok': True, 'frames': 80, 'median_instances': 9.0, 'median_max_mask_fraction': 0.574675}
+--- teacher files ---
+total 21M
+-rw-r--r-- 1 root root  19K Nov 12 18:51 pseudo_0000.npz
+-rw-r--r-- 1 root root  21K Nov 12 18:51 pseudo_0001.npz
+-rw-r--r-- 1 root root  19K Nov 12 18:51 pseudo_0002.npz
+-rw-r--r-- 1 root root 7.0K Nov 12 18:51 pseudo_0003.npz
+-rw-r--r-- 1 root root 7.8K Nov 12 18:51 pseudo_0004.npz
+-rw-r--r-- 1 root root  12K Nov 12 18:51 pseudo_0005.npz
+-rw-r--r-- 1 root root 8.3K Nov 12 18:51 pseudo_0006.npz
+-rw-r--r-- 1 root root 7.0K Nov 12 18:51 pseudo_0007.npz
+-rw-r--r-- 1 root root  16K Nov 12 18:51 pseudo_0008.npz
+-rw-r--r-- 1 root root  17K Nov 12 18:51 pseudo_0009.npz
+-rw-r--r-- 1 root root  16K Nov 12 18:51 pseudo_0010.npz
+-rw-r--r-- 1 root root  19K Nov 12 18:51 pseudo_0011.npz
+-rw-r--r-- 1 root root  15K Nov 12 18:51 pseudo_0012.npz
+-rw-r--r-- 1 root root  18K Nov 12 18:51 pseudo_0013.npz
+-rw-r--r-- 1 root root  24K Nov 12 18:52 pseudo_0014.npz
+-rw-r--r-- 1 root root  17K Nov 12 18:52 pseudo_0015.npz
+-rw-r--r-- 1 root root  21K Nov 12 18:52 pseudo_0016.npz
+-rw-r--r-- 1 root root  16K Nov 12 18:52 pseudo_0017.npz
+-rw-r--r-- 1 root root  16K Nov 12 18:52 pseudo_0018.npz
+    {
+      "index": 67,
+      "frame_id": 2681,
+      "instances": 7,
+      "max_mask_points": 18252
+    },
+    {
+      "index": 68,
+      "frame_id": 2721,
+      "instances": 2,
+      "max_mask_points": 13900
+    },
+    {
+      "index": 69,
+      "frame_id": 2761,
+      "instances": 5,
+      "max_mask_points": 13612
+    },
+    {
+      "index": 70,
+      "frame_id": 2801,
+      "instances": 5,
+      "max_mask_points": 18734
+    },
+    {
+      "index": 71,
+      "frame_id": 2841,
+      "instances": 4,
+      "max_mask_points": 17605
+    },
+    {
+      "index": 72,
+      "frame_id": 2881,
+      "instances": 4,
+      "max_mask_points": 18677
+    },
+    {
+      "index": 73,
+      "frame_id": 2921,
+      "instances": 7,
+      "max_mask_points": 14460
+    },
+    {
+      "index": 74,
+      "frame_id": 2961,
+      "instances": 7,
+      "max_mask_points": 16355
+    },
+    {
+      "index": 75,
+      "frame_id": 3001,
+      "instances": 4,
+      "max_mask_points": 12514
+    },
+    {
+      "index": 76,
+      "frame_id": 3041,
+      "instances": 12,
+      "max_mask_points": 10498
+    },
+    {
+      "index": 77,
+      "frame_id": 3081,
+      "instances": 11,
+      "max_mask_points": 12234
+    },
+    {
+      "index": 78,
+      "frame_id": 3121,
+      "instances": 8,
+      "max_mask_points": 13407
+    },
+    {
+      "index": 79,
+      "frame_id": 3161,
+      "instances": 9,
+      "max_mask_points": 2050
+    }
+  ]
+}{
+  "ok": true,
+  "frames": 80,
+  "median_instances": 9.0,
+  "median_max_mask_fraction": 0.574675
+}
+teacher gate OK
+partial init: {'matched': 103, 'total': 400}
+student forward: (100, 20000) (100, 2)
+step 20 loss 1.5986 0.0m
+step 40 loss 1.6716 0.1m
+step 60 loss 1.6026 0.1m
+step 80 loss 1.7342 0.2m
+step 100 loss 1.6178 0.2m
+step 120 loss 1.6431 0.3m
+step 140 loss 1.6258 0.3m
+step 160 loss 1.6414 0.3m
+step 180 loss 1.6294 0.4m
+step 200 loss 1.6155 0.4m
+val step 200 loss 1.6056
+step 220 loss 1.6029 0.5m
+step 240 loss 1.5925 0.5m
+step 260 loss 1.6211 0.6m
+step 280 loss 1.5807 0.6m
+step 300 loss 1.6121 0.7m
+step 320 loss 1.5903 0.7m
+step 340 loss 1.6001 0.7m
+step 360 loss 1.5875 0.8m
+step 380 loss 1.6055 0.8m
+step 400 loss 1.5843 0.9m
+val step 400 loss 1.7169
+step 420 loss 1.6048 0.9m
+step 440 loss 1.5780 1.0m
+step 460 loss 1.5927 1.0m
+step 480 loss 1.5968 1.1m
+step 500 loss 1.5944 1.1m
+step 520 loss 1.5880 1.1m
+step 540 loss 1.5967 1.2m
+step 560 loss 1.5826 1.2m
+step 580 loss 1.5906 1.3m
+step 600 loss 1.5987 1.3m
+val step 600 loss 1.6777
+step 620 loss 1.5900 1.4m
+step 640 loss 1.5713 1.4m
+step 660 loss 1.6069 1.5m
+step 680 loss 1.5865 1.5m
+step 700 loss 1.6181 1.5m
+step 720 loss 1.5659 1.6m
+step 740 loss 1.6160 1.6m
+step 760 loss 1.5713 1.7m
+step 780 loss 1.5923 1.7m
+step 800 loss 1.5762 1.8m
+val step 800 loss 1.6748
+step 820 loss 1.5942 1.8m
+step 840 loss 1.5735 1.9m
+step 860 loss 1.5925 1.9m
+step 880 loss 1.5664 1.9m
+step 900 loss 1.5799 2.0m
+step 920 loss 1.5644 2.0m
+step 940 loss 1.5755 2.1m
+step 960 loss 1.5700 2.1m
+step 980 loss 1.5736 2.2m
+step 1000 loss 1.5706 2.2m
+val step 1000 loss 1.6436
+step 1020 loss 1.5741 2.3m
+step 1040 loss 1.5684 2.3m
+step 1060 loss 1.5730 2.4m
+step 1080 loss 1.5649 2.4m
+step 1100 loss 1.5736 2.4m
+step 1120 loss 1.5600 2.5m
+step 1140 loss 1.5739 2.5m
+step 1160 loss 1.5551 2.6m
+step 1180 loss 1.5726 2.6m
+step 1200 loss 1.5511 2.7m
+val step 1200 loss 1.6983
+step 1220 loss 1.5720 2.7m
+step 1240 loss 1.5493 2.8m
+step 1260 loss 1.5715 2.8m
+step 1280 loss 1.5469 2.8m
+step 1300 loss 1.5707 2.9m
+step 1320 loss 1.5444 2.9m
+step 1340 loss 1.5708 3.0m
+step 1360 loss 1.5428 3.0m
+step 1380 loss 1.5697 3.1m
+step 1400 loss 1.5415 3.1m
+val step 1400 loss 1.7054
+step 1420 loss 1.5700 3.2m
+step 1440 loss 1.5398 3.2m
+step 1460 loss 1.5694 3.2m
+step 1480 loss 1.5359 3.3m
+step 1500 loss 1.5695 3.3m
+step 1520 loss 1.5369 3.4m
+step 1540 loss 1.5686 3.4m
+step 1560 loss 1.5362 3.5m
+step 1580 loss 1.5746 3.5m
+step 1600 loss 1.5356 3.6m
+val step 1600 loss 1.7326
+step 1620 loss 1.5701 3.6m
+step 1640 loss 1.5383 3.7m
+step 1660 loss 1.5731 3.7m
+step 1680 loss 1.5315 3.7m
+step 1700 loss 1.5700 3.8m
+step 1720 loss 1.5337 3.8m
+step 1740 loss 1.5778 3.9m
+step 1760 loss 1.5247 3.9m
+step 1780 loss 1.5728 4.0m
+step 1800 loss 1.5268 4.0m
+val step 1800 loss 1.6939
+step 1820 loss 1.5749 4.1m
+step 1840 loss 1.5170 4.1m
+step 1860 loss 1.5027 4.1m
+step 1880 loss 1.5689 4.2m
+step 1900 loss 1.5946 4.2m
+step 1920 loss 1.5483 4.3m
+step 1940 loss 1.5806 4.3m
+step 1960 loss 1.5371 4.4m
+step 1980 loss 1.5815 4.4m
+step 2000 loss 1.5111 4.5m
+val step 2000 loss 1.7501
+step 2020 loss 1.5827 4.5m
+step 2040 loss 1.5176 4.5m
+step 2060 loss 1.5863 4.6m
+step 2080 loss 1.5136 4.6m
+step 2100 loss 1.5823 4.7m
+step 2120 loss 1.5278 4.7m
+step 2140 loss 1.5847 4.8m
+step 2160 loss 1.5219 4.8m
+step 2180 loss 1.5771 4.9m
+step 2200 loss 1.5175 4.9m
+val step 2200 loss 1.7237
+step 2220 loss 1.5729 4.9m
+step 2240 loss 1.5040 5.0m
+step 2260 loss 1.5748 5.0m
+step 2280 loss 1.5017 5.1m
+step 2300 loss 1.5936 5.1m
+step 2320 loss 1.5187 5.2m
+step 2340 loss 1.5816 5.2m
+step 2360 loss 1.5116 5.3m
+step 2380 loss 1.5733 5.3m
+step 2400 loss 1.5138 5.3m
+val step 2400 loss 1.7454
+step 2420 loss 1.5826 5.4m
+step 2440 loss 1.5187 5.4m
+step 2460 loss 1.5722 5.5m
+step 2480 loss 1.5076 5.5m
+step 2500 loss 1.5760 5.6m
+step 2520 loss 1.5211 5.6m
+step 2540 loss 1.5726 5.7m
+step 2560 loss 1.5186 5.7m
+step 2580 loss 1.5853 5.8m
+step 2600 loss 1.5145 5.8m
+val step 2600 loss 1.6972
+step 2620 loss 1.5773 5.8m
+step 2640 loss 1.5172 5.9m
+step 2660 loss 1.5762 5.9m
+step 2680 loss 1.5229 6.0m
+step 2700 loss 1.5776 6.0m
+step 2720 loss 1.5126 6.1m
+step 2740 loss 1.5716 6.1m
+step 2760 loss 1.5137 6.2m
+step 2780 loss 1.5805 6.2m
+step 2800 loss 1.5103 6.2m
+val step 2800 loss 1.7036
+step 2820 loss 1.5693 6.3m
+step 2840 loss 1.5015 6.3m
+step 2860 loss 1.5726 6.4m
+step 2880 loss 1.5009 6.4m
+step 2900 loss 1.5672 6.5m
+step 2920 loss 1.5022 6.5m
+step 2940 loss 1.5652 6.6m
+step 2960 loss 1.5077 6.6m
+step 2980 loss 1.5653 6.6m
+step 3000 loss 1.5061 6.7m
+val step 3000 loss 1.7203
+step 3020 loss 1.5665 6.7m
+step 3040 loss 1.4975 6.8m
+step 3060 loss 1.5649 6.8m
+step 3080 loss 1.5093 6.9m
+step 3100 loss 1.5650 6.9m
+step 3120 loss 1.5045 7.0m
+step 3140 loss 1.5657 7.0m
+step 3160 loss 1.5240 7.0m
+step 3180 loss 1.5672 7.1m
+step 3200 loss 1.5115 7.1m
+val step 3200 loss 1.7803
+step 3220 loss 1.5702 7.2m
+step 3240 loss 1.5120 7.2m
+step 3260 loss 1.5711 7.3m
+step 3280 loss 1.5190 7.3m
+step 3300 loss 1.5684 7.4m
+step 3320 loss 1.5163 7.4m
+step 3340 loss 1.5654 7.4m
+step 3360 loss 1.5048 7.5m
+step 3380 loss 1.5633 7.5m
+step 3400 loss 1.5030 7.6m
+val step 3400 loss 1.8180
+step 3420 loss 1.5622 7.6m
+step 3440 loss 1.5005 7.7m
+step 3460 loss 1.5630 7.7m
+step 3480 loss 1.4997 7.7m
+step 3500 loss 1.5616 7.8m
+step 3520 loss 1.4985 7.8m
+step 3540 loss 1.5616 7.9m
+step 3560 loss 1.4987 7.9m
+step 3580 loss 1.5617 8.0m
+step 3600 loss 1.4984 8.0m
+val step 3600 loss 1.7723
+step 3620 loss 1.5611 8.0m
+step 3640 loss 1.4985 8.1m
+step 3660 loss 1.5607 8.1m
+step 3680 loss 1.4986 8.2m
+step 3700 loss 1.5606 8.2m
+step 3720 loss 1.4984 8.3m
+step 3740 loss 1.5606 8.3m
+step 3760 loss 1.4984 8.3m
+step 3780 loss 1.5605 8.4m
+step 3800 loss 1.4984 8.4m
+val step 3800 loss 1.7846
+step 3820 loss 1.5605 8.5m
+step 3840 loss 1.4984 8.5m
+step 3860 loss 1.5604 8.6m
+step 3880 loss 1.4985 8.6m
+step 3900 loss 1.5604 8.7m
+step 3920 loss 1.4984 8.7m
+step 3940 loss 1.5604 8.7m
+step 3960 loss 1.4984 8.8m
+step 3980 loss 1.5604 8.8m
+step 4000 loss 1.4984 8.9m
+val step 4000 loss 1.7861
+step 4020 loss 1.5603 8.9m
+step 4040 loss 1.4983 9.0m
+step 4060 loss 1.5603 9.0m
+step 4080 loss 1.4982 9.0m
+step 4100 loss 1.5603 9.1m
+step 4120 loss 1.4981 9.1m
+step 4140 loss 1.5602 9.2m
+step 4160 loss 1.4979 9.2m
+step 4180 loss 1.5602 9.3m
+step 4200 loss 1.4977 9.3m
+val step 4200 loss 1.7862
+step 4220 loss 1.5601 9.4m
+step 4240 loss 1.4974 9.4m
+step 4260 loss 1.5601 9.4m
+step 4280 loss 1.4971 9.5m
+step 4300 loss 1.5600 9.5m
+step 4320 loss 1.4967 9.6m
+step 4340 loss 1.5599 9.6m
+step 4360 loss 1.4962 9.7m
+step 4380 loss 1.5598 9.7m
+step 4400 loss 1.4957 9.7m
+val step 4400 loss 1.7876
+step 4420 loss 1.5597 9.8m
+step 4440 loss 1.4953 9.8m
+step 4460 loss 1.5596 9.9m
+step 4480 loss 1.4948 9.9m
+step 4500 loss 1.5596 10.0m
+step 4520 loss 1.4951 10.0m
+step 4540 loss 1.5598 10.0m
+step 4560 loss 1.4966 10.1m
+step 4580 loss 1.5600 10.1m
+step 4600 loss 1.4949 10.2m
+val step 4600 loss 1.7642
+step 4620 loss 1.5602 10.2m
+step 4640 loss 1.4961 10.3m
+step 4660 loss 1.5604 10.3m
+step 4680 loss 1.4983 10.3m
+step 4700 loss 1.5612 10.4m
+step 4720 loss 1.5104 10.4m
+step 4740 loss 1.5623 10.5m
+step 4760 loss 1.4966 10.5m
+step 4780 loss 1.5646 10.6m
+step 4800 loss 1.5046 10.6m
+val step 4800 loss 1.7499
+step 4820 loss 1.5653 10.7m
+step 4840 loss 1.5005 10.7m
+step 4860 loss 1.5667 10.7m
+step 4880 loss 1.5121 10.8m
+step 4900 loss 1.5663 10.8m
+step 4920 loss 1.4962 10.9m
+step 4940 loss 1.5721 10.9m
+step 4960 loss 1.5154 11.0m
+step 4980 loss 1.5688 11.0m
+step 5000 loss 1.5253 11.0m
+val step 5000 loss 1.6819
+step 5020 loss 1.5723 11.1m
+step 5040 loss 1.5374 11.1m
+step 5060 loss 1.5800 11.2m
+step 5080 loss 1.5044 11.2m
+step 5100 loss 1.5819 11.3m
+step 5120 loss 1.5053 11.3m
+step 5140 loss 1.5755 11.3m
+step 5160 loss 1.5022 11.4m
+step 5180 loss 1.5681 11.4m
+step 5200 loss 1.4940 11.5m
+val step 5200 loss 1.7374
+step 5220 loss 1.5694 11.5m
+step 5240 loss 1.4952 11.6m
+step 5260 loss 1.5734 11.6m
+step 5280 loss 1.5021 11.7m
+step 5300 loss 1.5657 11.7m
+step 5320 loss 1.4989 11.7m
+step 5340 loss 1.5679 11.8m
+step 5360 loss 1.4945 11.8m
+step 5380 loss 1.5687 11.9m
+step 5400 loss 1.4997 11.9m
+val step 5400 loss 1.8146
+step 5420 loss 1.5671 12.0m
+step 5440 loss 1.5147 12.0m
+step 5460 loss 1.5621 12.0m
+step 5480 loss 1.4974 12.1m
+step 5500 loss 1.5687 12.1m
+step 5520 loss 1.5013 12.2m
+step 5540 loss 1.5630 12.2m
+step 5560 loss 1.5100 12.3m
+step 5580 loss 1.5635 12.3m
+step 5600 loss 1.4978 12.3m
+val step 5600 loss 1.7929
+step 5620 loss 1.5651 12.4m
+step 5640 loss 1.5003 12.4m
+step 5660 loss 1.5623 12.5m
+step 5680 loss 1.4937 12.5m
+step 5700 loss 1.5643 12.6m
+step 5720 loss 1.4938 12.6m
+step 5740 loss 1.5605 12.7m
+step 5760 loss 1.5006 12.7m
+step 5780 loss 1.5591 12.7m
+step 5800 loss 1.5003 12.8m
+val step 5800 loss 1.7549
+step 5820 loss 1.5594 12.8m
+step 5840 loss 1.4957 12.9m
+step 5860 loss 1.5601 12.9m
+step 5880 loss 1.4978 13.0m
+step 5900 loss 1.5603 13.0m
+step 5920 loss 1.5031 13.1m
+step 5940 loss 1.5611 13.1m
+step 5960 loss 1.5044 13.1m
+step 5980 loss 1.5606 13.2m
+step 6000 loss 1.5012 13.2m
+val step 6000 loss 1.7372
+step 6020 loss 1.5583 13.3m
+step 6040 loss 1.4992 13.3m
+step 6060 loss 1.5598 13.4m
+step 6080 loss 1.4961 13.4m
+step 6100 loss 1.5604 13.4m
+step 6120 loss 1.4957 13.5m
+step 6140 loss 1.5585 13.5m
+step 6160 loss 1.4946 13.6m
+step 6180 loss 1.5576 13.6m
+step 6200 loss 1.4952 13.7m
+val step 6200 loss 1.7360
+step 6220 loss 1.5578 13.7m
+step 6240 loss 1.4952 13.8m
+step 6260 loss 1.5572 13.8m
+step 6280 loss 1.4947 13.8m
+step 6300 loss 1.5572 13.9m
+step 6320 loss 1.4947 13.9m
+step 6340 loss 1.5571 14.0m
+step 6360 loss 1.4948 14.0m
+step 6380 loss 1.5570 14.1m
+step 6400 loss 1.4949 14.1m
+val step 6400 loss 1.7544
+step 6420 loss 1.5570 14.1m
+step 6440 loss 1.4949 14.2m
+step 6460 loss 1.5570 14.2m
+step 6480 loss 1.4950 14.3m
+step 6500 loss 1.5570 14.3m
+step 6520 loss 1.4950 14.4m
+step 6540 loss 1.5570 14.4m
+step 6560 loss 1.4950 14.4m
+step 6580 loss 1.5569 14.5m
+step 6600 loss 1.4950 14.5m
+val step 6600 loss 1.7565
+step 6620 loss 1.5569 14.6m
+step 6640 loss 1.4950 14.6m
+step 6660 loss 1.5569 14.7m
+step 6680 loss 1.4949 14.7m
+step 6700 loss 1.5569 14.8m
+step 6720 loss 1.4949 14.8m
+step 6740 loss 1.5569 14.8m
+step 6760 loss 1.4948 14.9m
+step 6780 loss 1.5569 14.9m
+step 6800 loss 1.4947 15.0m
+val step 6800 loss 1.7577
+step 6820 loss 1.5568 15.0m
+step 6840 loss 1.4945 15.1m
+step 6860 loss 1.5568 15.1m
+step 6880 loss 1.4943 15.1m
+step 6900 loss 1.5567 15.2m
+step 6920 loss 1.4941 15.2m
+step 6940 loss 1.5567 15.3m
+step 6960 loss 1.4939 15.3m
+step 6980 loss 1.5566 15.4m
+step 7000 loss 1.4936 15.4m
+val step 7000 loss 1.7614
+step 7020 loss 1.5566 15.4m
+step 7040 loss 1.4933 15.5m
+step 7060 loss 1.5565 15.5m
+step 7080 loss 1.4929 15.6m
+step 7100 loss 1.5564 15.6m
+step 7120 loss 1.4926 15.7m
+step 7140 loss 1.5563 15.7m
+step 7160 loss 1.4921 15.8m
+step 7180 loss 1.5562 15.8m
+step 7200 loss 1.4917 15.8m
+val step 7200 loss 1.7685
+step 7220 loss 1.5562 15.9m
+step 7240 loss 1.4913 15.9m
+step 7260 loss 1.5561 16.0m
+step 7280 loss 1.4909 16.0m
+step 7300 loss 1.5561 16.1m
+step 7320 loss 1.4906 16.1m
+step 7340 loss 1.5560 16.1m
+step 7360 loss 1.4907 16.2m
+step 7380 loss 1.5562 16.2m
+step 7400 loss 1.4912 16.3m
+val step 7400 loss 1.7367
+step 7420 loss 1.5566 16.3m
+step 7440 loss 1.4920 16.4m
+step 7460 loss 1.5573 16.4m
+step 7480 loss 1.4917 16.4m
+step 7500 loss 1.5604 16.5m
+step 7520 loss 1.4931 16.5m
+step 7540 loss 1.5610 16.6m
+step 7560 loss 1.4967 16.6m
+step 7580 loss 1.5639 16.7m
+step 7600 loss 1.5048 16.7m
+val step 7600 loss 1.8819
+step 7620 loss 1.5642 16.8m
+step 7640 loss 1.5069 16.8m
+step 7660 loss 1.5664 16.8m
+step 7680 loss 1.5098 16.9m
+step 7700 loss 1.5672 16.9m
+step 7720 loss 1.5010 17.0m
+step 7740 loss 1.5650 17.0m
+step 7760 loss 1.5016 17.1m
+step 7780 loss 1.5795 17.1m
+step 7800 loss 1.5031 17.1m
+val step 7800 loss 1.7575
+step 7820 loss 1.5701 17.2m
+step 7840 loss 1.5014 17.2m
+step 7860 loss 1.5665 17.3m
+step 7880 loss 1.5003 17.3m
+step 7900 loss 1.5663 17.4m
+step 7920 loss 1.5028 17.4m
+step 7940 loss 1.5629 17.5m
+step 7960 loss 1.5008 17.5m
+step 7980 loss 1.5653 17.5m
+step 8000 loss 1.4971 17.6m
+val step 8000 loss 1.7263
+step 8020 loss 1.5612 17.6m
+step 8040 loss 1.4959 17.7m
+step 8060 loss 1.5707 17.7m
+step 8080 loss 1.5088 17.8m
+step 8100 loss 1.5606 17.8m
+step 8120 loss 1.4939 17.9m
+step 8140 loss 1.5618 17.9m
+step 8160 loss 1.5027 17.9m
+step 8180 loss 1.5601 18.0m
+step 8200 loss 1.4988 18.0m
+val step 8200 loss 1.7515
+step 8220 loss 1.5579 18.1m
+step 8240 loss 1.5002 18.1m
+step 8260 loss 1.5592 18.2m
+step 8280 loss 1.4924 18.2m
+step 8300 loss 1.5589 18.2m
+step 8320 loss 1.4931 18.3m
+step 8340 loss 1.5597 18.3m
+step 8360 loss 1.4979 18.4m
+step 8380 loss 1.5570 18.4m
+step 8400 loss 1.4974 18.5m
+val step 8400 loss 1.7808
+step 8420 loss 1.5584 18.5m
+step 8440 loss 1.4931 18.6m
+step 8460 loss 1.5607 18.6m
+step 8480 loss 1.5029 18.6m
+step 8500 loss 1.5588 18.7m
+step 8520 loss 1.5014 18.7m
+step 8540 loss 1.5586 18.8m
+step 8560 loss 1.4978 18.8m
+step 8580 loss 1.5568 18.9m
+step 8600 loss 1.4947 18.9m
+val step 8600 loss 1.8147
+step 8620 loss 1.5584 19.0m
+step 8640 loss 1.4929 19.0m
+step 8660 loss 1.5586 19.0m
+step 8680 loss 1.4931 19.1m
+step 8700 loss 1.5570 19.1m
+step 8720 loss 1.4931 19.2m
+step 8740 loss 1.5563 19.2m
+step 8760 loss 1.4939 19.3m
+step 8780 loss 1.5565 19.3m
+step 8800 loss 1.4943 19.3m
+val step 8800 loss 1.7679
+step 8820 loss 1.5558 19.4m
+step 8840 loss 1.4933 19.4m
+step 8860 loss 1.5554 19.5m
+step 8880 loss 1.4932 19.5m
+step 8900 loss 1.5554 19.6m
+step 8920 loss 1.4933 19.6m
+step 8940 loss 1.5553 19.7m
+step 8960 loss 1.4933 19.7m
+step 8980 loss 1.5553 19.7m
+step 9000 loss 1.4934 19.8m
+val step 9000 loss 1.7875
+step 9020 loss 1.5553 19.8m
+step 9040 loss 1.4935 19.9m
+step 9060 loss 1.5552 19.9m
+step 9080 loss 1.4935 20.0m
+step 9100 loss 1.5552 20.0m
+step 9120 loss 1.4936 20.0m
+step 9140 loss 1.5552 20.1m
+step 9160 loss 1.4936 20.1m
+step 9180 loss 1.5552 20.2m
+step 9200 loss 1.4936 20.2m
+val step 9200 loss 1.7898
+step 9220 loss 1.5552 20.3m
+step 9240 loss 1.4936 20.3m
+step 9260 loss 1.5552 20.4m
+step 9280 loss 1.4936 20.4m
+step 9300 loss 1.5552 20.4m
+step 9320 loss 1.4936 20.5m
+step 9340 loss 1.5552 20.5m
+step 9360 loss 1.4935 20.6m
+step 9380 loss 1.5552 20.6m
+step 9400 loss 1.4934 20.7m
+val step 9400 loss 1.7912
+step 9420 loss 1.5551 20.7m
+step 9440 loss 1.4934 20.8m
+step 9460 loss 1.5551 20.8m
+step 9480 loss 1.4932 20.8m
+step 9500 loss 1.5551 20.9m
+step 9520 loss 1.4931 20.9m
+step 9540 loss 1.5551 21.0m
+step 9560 loss 1.4929 21.0m
+step 9580 loss 1.5550 21.1m
+step 9600 loss 1.4928 21.1m
+val step 9600 loss 1.7941
+step 9620 loss 1.5550 21.1m
+step 9640 loss 1.4925 21.2m
+step 9660 loss 1.5550 21.2m
+step 9680 loss 1.4923 21.3m
+step 9700 loss 1.5549 21.3m
+step 9720 loss 1.4921 21.4m
+step 9740 loss 1.5549 21.4m
+step 9760 loss 1.4918 21.4m
+step 9780 loss 1.5548 21.5m
+step 9800 loss 1.4915 21.5m
+val step 9800 loss 1.8012
+step 9820 loss 1.5548 21.6m
+step 9840 loss 1.4912 21.6m
+step 9860 loss 1.5547 21.7m
+step 9880 loss 1.4909 21.7m
+step 9900 loss 1.5547 21.8m
+step 9920 loss 1.4905 21.8m
+step 9940 loss 1.5546 21.8m
+step 9960 loss 1.4903 21.9m
+step 9980 loss 1.5546 21.9m
+step 10000 loss 1.4900 22.0m
+val step 10000 loss 1.8104
+step 10020 loss 1.5546 22.0m
+step 10040 loss 1.4898 22.1m
+step 10060 loss 1.5546 22.1m
+step 10080 loss 1.4896 22.2m
+step 10100 loss 1.5547 22.2m
+step 10120 loss 1.4896 22.2m
+step 10140 loss 1.5548 22.3m
+step 10160 loss 1.4900 22.3m
+step 10180 loss 1.5550 22.4m
+step 10200 loss 1.4896 22.4m
+val step 10200 loss 1.8298
+step 10220 loss 1.5581 22.5m
+step 10240 loss 1.4911 22.5m
+step 10260 loss 1.5584 22.6m
+step 10280 loss 1.4932 22.6m
+step 10300 loss 1.5600 22.6m
+step 10320 loss 1.5061 22.7m
+step 10340 loss 1.5610 22.7m
+step 10360 loss 1.4948 22.8m
+step 10380 loss 1.5646 22.8m
+step 10400 loss 1.4996 22.9m
+val step 10400 loss 1.7567
+step 10420 loss 1.5600 22.9m
+step 10440 loss 1.5077 22.9m
+step 10460 loss 1.5601 23.0m
+step 10480 loss 1.4973 23.0m
+step 10500 loss 1.5589 23.1m
+step 10520 loss 1.4951 23.1m
+step 10540 loss 1.5594 23.2m
+step 10560 loss 1.4979 23.2m
+step 10580 loss 1.5595 23.2m
+step 10600 loss 1.4936 23.3m
+val step 10600 loss 1.7621
+step 10620 loss 1.5601 23.3m
+step 10640 loss 1.4941 23.4m
+step 10660 loss 1.5575 23.4m
+step 10680 loss 1.5031 23.5m
+step 10700 loss 1.5598 23.5m
+step 10720 loss 1.4871 23.6m
+step 10740 loss 1.5594 23.6m
+step 10760 loss 1.4947 23.6m
+step 10780 loss 1.5605 23.7m
+step 10800 loss 1.4983 23.7m
+val step 10800 loss 1.7721
+step 10820 loss 1.5563 23.8m
+step 10840 loss 1.4921 23.8m
+step 10860 loss 1.5604 23.9m
+step 10880 loss 1.4917 23.9m
+step 10900 loss 1.5568 24.0m
+step 10920 loss 1.4973 24.0m
+step 10940 loss 1.5593 24.0m
+step 10960 loss 1.4870 24.1m
+step 10980 loss 1.5558 24.1m
+step 11000 loss 1.4902 24.2m
+val step 11000 loss 1.7479
+step 11020 loss 1.5563 24.2m
+step 11040 loss 1.4924 24.3m
+step 11060 loss 1.5553 24.3m
+step 11080 loss 1.4917 24.4m
+step 11100 loss 1.5558 24.4m
+step 11120 loss 1.4926 24.4m
+step 11140 loss 1.5564 24.5m
+step 11160 loss 1.4980 24.5m
+step 11180 loss 1.5552 24.6m
+step 11200 loss 1.4942 24.6m
+val step 11200 loss 1.7271
+step 11220 loss 1.5545 24.7m
+step 11240 loss 1.4940 24.7m
+step 11260 loss 1.5561 24.8m
+step 11280 loss 1.4930 24.8m
+step 11300 loss 1.5560 24.8m
+step 11320 loss 1.4929 24.9m
+step 11340 loss 1.5553 24.9m
+step 11360 loss 1.4923 25.0m
+step 11380 loss 1.5544 25.0m
+step 11400 loss 1.4920 25.1m
+val step 11400 loss 1.7448
+step 11420 loss 1.5546 25.1m
+step 11440 loss 1.4927 25.2m
+step 11460 loss 1.5544 25.2m
+step 11480 loss 1.4921 25.2m
+step 11500 loss 1.5541 25.3m
+step 11520 loss 1.4919 25.3m
+step 11540 loss 1.5542 25.4m
+step 11560 loss 1.4920 25.4m
+step 11580 loss 1.5540 25.5m
+step 11600 loss 1.4920 25.5m
+val step 11600 loss 1.7599
+step 11620 loss 1.5540 25.6m
+step 11640 loss 1.4921 25.6m
+step 11660 loss 1.5540 25.6m
+step 11680 loss 1.4922 25.7m
+step 11700 loss 1.5540 25.7m
+step 11720 loss 1.4922 25.8m
+step 11740 loss 1.5540 25.8m
+step 11760 loss 1.4923 25.9m
+step 11780 loss 1.5540 25.9m
+step 11800 loss 1.4923 25.9m
+val step 11800 loss 1.7606
+step 11820 loss 1.5540 26.0m
+step 11840 loss 1.4923 26.0m
+step 11860 loss 1.5539 26.1m
+step 11880 loss 1.4923 26.1m
+step 11900 loss 1.5539 26.2m
+step 11920 loss 1.4923 26.2m
+step 11940 loss 1.5539 26.3m
+step 11960 loss 1.4923 26.3m
+step 11980 loss 1.5539 26.3m
+step 12000 loss 1.4922 26.4m
+val step 12000 loss 1.7614
+step 12020 loss 1.5539 26.4m
+step 12040 loss 1.4922 26.5m
+step 12060 loss 1.5539 26.5m
+step 12080 loss 1.4921 26.6m
+step 12100 loss 1.5539 26.6m
+step 12120 loss 1.4920 26.7m
+step 12140 loss 1.5539 26.7m
+step 12160 loss 1.4919 26.7m
+step 12180 loss 1.5539 26.8m
+step 12200 loss 1.4918 26.8m
+val step 12200 loss 1.7625
+step 12220 loss 1.5539 26.9m
+step 12240 loss 1.4917 26.9m
+step 12260 loss 1.5538 27.0m
+step 12280 loss 1.4915 27.0m
+step 12300 loss 1.5538 27.0m
+step 12320 loss 1.4913 27.1m
+step 12340 loss 1.5538 27.1m
+step 12360 loss 1.4911 27.2m
+step 12380 loss 1.5538 27.2m
+step 12400 loss 1.4909 27.3m
+val step 12400 loss 1.7654
+step 12420 loss 1.5537 27.3m
+step 12440 loss 1.4907 27.4m
+step 12460 loss 1.5537 27.4m
+step 12480 loss 1.4905 27.4m
+step 12500 loss 1.5537 27.5m
+step 12520 loss 1.4902 27.5m
+step 12540 loss 1.5537 27.6m
+step 12560 loss 1.4900 27.6m
+step 12580 loss 1.5537 27.7m
+step 12600 loss 1.4898 27.7m
+val step 12600 loss 1.7690
+step 12620 loss 1.5537 27.8m
+step 12640 loss 1.4896 27.8m
+step 12660 loss 1.5537 27.8m
+step 12680 loss 1.4894 27.9m
+step 12700 loss 1.5537 27.9m
+step 12720 loss 1.4894 28.0m
+step 12740 loss 1.5538 28.0m
+step 12760 loss 1.4891 28.1m
+step 12780 loss 1.5539 28.1m
+step 12800 loss 1.4890 28.1m
+val step 12800 loss 1.7766
+step 12820 loss 1.5540 28.2m
+step 12840 loss 1.4893 28.2m
+step 12860 loss 1.5542 28.3m
+step 12880 loss 1.4899 28.3m
+step 12900 loss 1.5548 28.4m
+step 12920 loss 1.4924 28.4m
+step 12940 loss 1.5574 28.5m
+step 12960 loss 1.4997 28.5m
+step 12980 loss 1.5593 28.5m
+step 13000 loss 1.5050 28.6m
+val step 13000 loss 1.7202
+step 13020 loss 1.5599 28.6m
+step 13040 loss 1.5024 28.7m
+step 13060 loss 1.5615 28.7m
+step 13080 loss 1.4975 28.8m
+step 13100 loss 1.5696 28.8m
+step 13120 loss 1.5088 28.9m
+step 13140 loss 1.5635 28.9m
+step 13160 loss 1.5097 28.9m
+step 13180 loss 1.5712 29.0m
+step 13200 loss 1.4977 29.0m
+val step 13200 loss 1.6317
+step 13220 loss 1.5610 29.1m
+step 13240 loss 1.4939 29.1m
+step 13260 loss 1.5595 29.2m
+step 13280 loss 1.4949 29.2m
+step 13300 loss 1.5581 29.3m
+step 13320 loss 1.4948 29.3m
+step 13340 loss 1.5599 29.3m
+step 13360 loss 1.5001 29.4m
+step 13380 loss 1.5572 29.4m
+step 13400 loss 1.4944 29.5m
+val step 13400 loss 1.6727
+step 13420 loss 1.5578 29.5m
+step 13440 loss 1.4978 29.6m
+step 13460 loss 1.5635 29.6m
+step 13480 loss 1.4979 29.6m
+step 13500 loss 1.5558 29.7m
+step 13520 loss 1.4924 29.7m
+step 13540 loss 1.5557 29.8m
+step 13560 loss 1.4928 29.8m
+step 13580 loss 1.5551 29.9m
+step 13600 loss 1.4917 29.9m
+val step 13600 loss 1.6925
+step 13620 loss 1.5544 30.0m
+step 13640 loss 1.4914 30.0m
+step 13660 loss 1.5545 30.0m
+step 13680 loss 1.4911 30.1m
+step 13700 loss 1.5545 30.1m
+step 13720 loss 1.4910 30.2m
+step 13740 loss 1.5547 30.2m
+step 13760 loss 1.4922 30.3m
+step 13780 loss 1.5551 30.3m
+step 13800 loss 1.4938 30.3m
+val step 13800 loss 1.6806
+step 13820 loss 1.5543 30.4m
+step 13840 loss 1.4921 30.4m
+step 13860 loss 1.5540 30.5m
+step 13880 loss 1.4915 30.5m
+step 13900 loss 1.5545 30.6m
+step 13920 loss 1.4917 30.6m
+step 13940 loss 1.5547 30.7m
+step 13960 loss 1.4921 30.7m
+step 13980 loss 1.5546 30.7m
+step 14000 loss 1.4917 30.8m
+val step 14000 loss 1.7004
+step 14020 loss 1.5541 30.8m
+step 14040 loss 1.4916 30.9m
+step 14060 loss 1.5539 30.9m
+step 14080 loss 1.4921 31.0m
+step 14100 loss 1.5540 31.0m
+step 14120 loss 1.4921 31.1m
+step 14140 loss 1.5538 31.1m
+step 14160 loss 1.4919 31.1m
+step 14180 loss 1.5538 31.2m
+step 14200 loss 1.4919 31.2m
+val step 14200 loss 1.7010
+step 14220 loss 1.5537 31.3m
+step 14240 loss 1.4920 31.3m
+step 14260 loss 1.5537 31.4m
+step 14280 loss 1.4920 31.4m
+step 14300 loss 1.5537 31.4m
+step 14320 loss 1.4921 31.5m
+step 14340 loss 1.5537 31.5m
+step 14360 loss 1.4921 31.6m
+step 14380 loss 1.5537 31.6m
+step 14400 loss 1.4922 31.7m
+val step 14400 loss 1.6994
+step 14420 loss 1.5537 31.7m
+step 14440 loss 1.4922 31.8m
+step 14460 loss 1.5537 31.8m
+step 14480 loss 1.4922 31.8m
+step 14500 loss 1.5537 31.9m
+step 14520 loss 1.4922 31.9m
+step 14540 loss 1.5537 32.0m
+step 14560 loss 1.4922 32.0m
+step 14580 loss 1.5537 32.1m
+step 14600 loss 1.4922 32.1m
+val step 14600 loss 1.6993
+step 14620 loss 1.5537 32.2m
+step 14640 loss 1.4922 32.2m
+step 14660 loss 1.5537 32.2m
+step 14680 loss 1.4921 32.3m
+step 14700 loss 1.5537 32.3m
+step 14720 loss 1.4921 32.4m
+step 14740 loss 1.5537 32.4m
+step 14760 loss 1.4920 32.5m
+step 14780 loss 1.5536 32.5m
+step 14800 loss 1.4919 32.5m
+val step 14800 loss 1.6991
+step 14820 loss 1.5536 32.6m
+step 14840 loss 1.4918 32.6m
+step 14860 loss 1.5536 32.7m
+step 14880 loss 1.4916 32.7m
+step 14900 loss 1.5536 32.8m
+step 14920 loss 1.4915 32.8m
+step 14940 loss 1.5536 32.9m
+step 14960 loss 1.4914 32.9m
+step 14980 loss 1.5536 32.9m
+step 15000 loss 1.4912 33.0m
+val step 15000 loss 1.6986
+step 15020 loss 1.5536 33.0m
+step 15040 loss 1.4910 33.1m
+step 15060 loss 1.5535 33.1m
+step 15080 loss 1.4908 33.2m
+step 15100 loss 1.5535 33.2m
+step 15120 loss 1.4906 33.2m
+step 15140 loss 1.5535 33.3m
+step 15160 loss 1.4904 33.3m
+step 15180 loss 1.5535 33.4m
+step 15200 loss 1.4902 33.4m
+val step 15200 loss 1.6978
+step 15220 loss 1.5535 33.5m
+step 15240 loss 1.4900 33.5m
+step 15260 loss 1.5535 33.6m
+step 15280 loss 1.4898 33.6m
+step 15300 loss 1.5534 33.6m
+step 15320 loss 1.4896 33.7m
+step 15340 loss 1.5535 33.7m
+step 15360 loss 1.4895 33.8m
+step 15380 loss 1.5535 33.8m
+step 15400 loss 1.4894 33.9m
+val step 15400 loss 1.7025
+step 15420 loss 1.5535 33.9m
+step 15440 loss 1.4891 34.0m
+step 15460 loss 1.5536 34.0m
+step 15480 loss 1.4890 34.0m
+step 15500 loss 1.5536 34.1m
+step 15520 loss 1.4894 34.1m
+step 15540 loss 1.5546 34.2m
+step 15560 loss 1.4892 34.2m
+step 15580 loss 1.5551 34.3m
+step 15600 loss 1.4909 34.3m
+val step 15600 loss 1.7143
+step 15620 loss 1.5576 34.4m
+step 15640 loss 1.5004 34.4m
+step 15660 loss 1.5581 34.4m
+step 15680 loss 1.5114 34.5m
+step 15700 loss 1.5642 34.5m
+step 15720 loss 1.4972 34.6m
+step 15740 loss 1.5611 34.6m
+step 15760 loss 1.5041 34.7m
+step 15780 loss 1.5617 34.7m
+step 15800 loss 1.5003 34.7m
+val step 15800 loss 1.7085
+step 15820 loss 1.5601 34.8m
+step 15840 loss 1.4986 34.8m
+step 15860 loss 1.5583 34.9m
+step 15880 loss 1.5002 34.9m
+step 15900 loss 1.5570 35.0m
+step 15920 loss 1.5032 35.0m
+step 15940 loss 1.5560 35.1m
+step 15960 loss 1.5003 35.1m
+step 15980 loss 1.5559 35.1m
+step 16000 loss 1.4941 35.2m
+val step 16000 loss 1.6734
+step 16020 loss 1.5569 35.2m
+step 16040 loss 1.4955 35.3m
+step 16060 loss 1.5548 35.3m
+step 16080 loss 1.4900 35.4m
+step 16100 loss 1.5541 35.4m
+step 16120 loss 1.4907 35.5m
+step 16140 loss 1.5546 35.5m
+step 16160 loss 1.4913 35.5m
+step 16180 loss 1.5541 35.6m
+step 16200 loss 1.4920 35.6m
+val step 16200 loss 1.6671
+step 16220 loss 1.5548 35.7m
+step 16240 loss 1.4914 35.7m
+step 16260 loss 1.5561 35.8m
+step 16280 loss 1.4905 35.8m
+step 16300 loss 1.5559 35.8m
+step 16320 loss 1.4963 35.9m
+step 16340 loss 1.5547 35.9m
+step 16360 loss 1.4964 36.0m
+step 16380 loss 1.5542 36.0m
+step 16400 loss 1.4920 36.1m
+val step 16400 loss 1.6732
+step 16420 loss 1.5540 36.1m
+step 16440 loss 1.4913 36.2m
+step 16460 loss 1.5539 36.2m
+step 16480 loss 1.4920 36.2m
+step 16500 loss 1.5546 36.3m
+step 16520 loss 1.4932 36.3m
+step 16540 loss 1.5572 36.4m
+step 16560 loss 1.4929 36.4m
+step 16580 loss 1.5562 36.5m
+step 16600 loss 1.4920 36.5m
+val step 16600 loss 1.6955
+step 16620 loss 1.5537 36.6m
+step 16640 loss 1.4916 36.6m
+step 16660 loss 1.5543 36.6m
+step 16680 loss 1.4927 36.7m
+step 16700 loss 1.5538 36.7m
+step 16720 loss 1.4917 36.8m
+step 16740 loss 1.5536 36.8m
+step 16760 loss 1.4914 36.9m
+step 16780 loss 1.5536 36.9m
+step 16800 loss 1.4915 36.9m
+val step 16800 loss 1.6856
+step 16820 loss 1.5535 37.0m
+step 16840 loss 1.4916 37.0m
+step 16860 loss 1.5534 37.1m
+step 16880 loss 1.4916 37.1m
+step 16900 loss 1.5534 37.2m
+step 16920 loss 1.4917 37.2m
+step 16940 loss 1.5534 37.3m
+step 16960 loss 1.4918 37.3m
+step 16980 loss 1.5534 37.3m
+step 17000 loss 1.4918 37.4m
+val step 17000 loss 1.6832
+step 17020 loss 1.5534 37.4m
+step 17040 loss 1.4918 37.5m
+step 17060 loss 1.5534 37.5m
+step 17080 loss 1.4919 37.6m
+step 17100 loss 1.5534 37.6m
+step 17120 loss 1.4919 37.6m
+step 17140 loss 1.5534 37.7m
+step 17160 loss 1.4919 37.7m
+step 17180 loss 1.5534 37.8m
+step 17200 loss 1.4919 37.8m
+val step 17200 loss 1.6836
+step 17220 loss 1.5534 37.9m
+step 17240 loss 1.4918 37.9m
+step 17260 loss 1.5534 38.0m
+step 17280 loss 1.4918 38.0m
+step 17300 loss 1.5534 38.0m
+step 17320 loss 1.4918 38.1m
+step 17340 loss 1.5534 38.1m
+step 17360 loss 1.4917 38.2m
+step 17380 loss 1.5534 38.2m
+step 17400 loss 1.4916 38.3m
+val step 17400 loss 1.6838
+step 17420 loss 1.5534 38.3m
+step 17440 loss 1.4916 38.4m
+step 17460 loss 1.5534 38.4m
+step 17480 loss 1.4915 38.4m
+step 17500 loss 1.5534 38.5m
+step 17520 loss 1.4914 38.5m
+step 17540 loss 1.5533 38.6m
+step 17560 loss 1.4912 38.6m
+step 17580 loss 1.5533 38.7m
+step 17600 loss 1.4911 38.7m
+val step 17600 loss 1.6842
+step 17620 loss 1.5533 38.7m
+step 17640 loss 1.4909 38.8m
+step 17660 loss 1.5533 38.8m
+step 17680 loss 1.4908 38.9m
+step 17700 loss 1.5533 38.9m
+step 17720 loss 1.4906 39.0m
+step 17740 loss 1.5533 39.0m
+step 17760 loss 1.4904 39.1m
+step 17780 loss 1.5533 39.1m
+step 17800 loss 1.4903 39.1m
+val step 17800 loss 1.6843
+step 17820 loss 1.5533 39.2m
+step 17840 loss 1.4901 39.2m
+step 17860 loss 1.5532 39.3m
+step 17880 loss 1.4899 39.3m
+step 17900 loss 1.5532 39.4m
+step 17920 loss 1.4897 39.4m
+step 17940 loss 1.5532 39.4m
+step 17960 loss 1.4895 39.5m
+step 17980 loss 1.5532 39.5m
+step 18000 loss 1.4894 39.6m
+val step 18000 loss 1.6822
+step 18020 loss 1.5532 39.6m
+step 18040 loss 1.4892 39.7m
+step 18060 loss 1.5533 39.7m
+step 18080 loss 1.4891 39.8m
+step 18100 loss 1.5533 39.8m
+step 18120 loss 1.4892 39.8m
+step 18140 loss 1.5534 39.9m
+step 18160 loss 1.4892 39.9m
+step 18180 loss 1.5537 40.0m
+step 18200 loss 1.4892 40.0m
+val step 18200 loss 1.6929
+step 18220 loss 1.5544 40.1m
+step 18240 loss 1.4917 40.1m
+step 18260 loss 1.5550 40.2m
+step 18280 loss 1.4905 40.2m
+step 18300 loss 1.5552 40.2m
+step 18320 loss 1.4950 40.3m
+step 18340 loss 1.5557 40.3m
+step 18360 loss 1.4918 40.4m
+step 18380 loss 1.5576 40.4m
+step 18400 loss 1.4988 40.5m
+val step 18400 loss 1.6584
+step 18420 loss 1.5610 40.5m
+step 18440 loss 1.4951 40.5m
+step 18460 loss 1.5570 40.6m
+step 18480 loss 1.4950 40.6m
+step 18500 loss 1.5627 40.7m
+step 18520 loss 1.4990 40.7m
+step 18540 loss 1.5557 40.8m
+step 18560 loss 1.4918 40.8m
+step 18580 loss 1.5566 40.9m
+step 18600 loss 1.4903 40.9m
+val step 18600 loss 1.6625
+step 18620 loss 1.5556 40.9m
+step 18640 loss 1.4919 41.0m
+step 18660 loss 1.5549 41.0m
+step 18680 loss 1.4908 41.1m
+step 18700 loss 1.5545 41.1m
+step 18720 loss 1.4947 41.2m
+step 18740 loss 1.5559 41.2m
+step 18760 loss 1.4906 41.2m
+step 18780 loss 1.5550 41.3m
+step 18800 loss 1.4918 41.3m
+val step 18800 loss 1.6835
+step 18820 loss 1.5554 41.4m
+step 18840 loss 1.4926 41.4m
+step 18860 loss 1.5544 41.5m
+step 18880 loss 1.4925 41.5m
+step 18900 loss 1.5546 41.6m
+step 18920 loss 1.4930 41.6m
+step 18940 loss 1.5572 41.6m
+step 18960 loss 1.4960 41.7m
+step 18980 loss 1.5556 41.7m
+step 19000 loss 1.4958 41.8m
+val step 19000 loss 1.6541
+step 19020 loss 1.5540 41.8m
+step 19040 loss 1.4912 41.9m
+step 19060 loss 1.5540 41.9m
+step 19080 loss 1.4912 41.9m
+step 19100 loss 1.5546 42.0m
+step 19120 loss 1.4923 42.0m
+step 19140 loss 1.5556 42.1m
+step 19160 loss 1.4927 42.1m
+step 19180 loss 1.5562 42.2m
+step 19200 loss 1.4916 42.2m
+val step 19200 loss 1.6782
+step 19220 loss 1.5539 42.3m
+step 19240 loss 1.4913 42.3m
+step 19260 loss 1.5540 42.3m
+step 19280 loss 1.4929 42.4m
+step 19300 loss 1.5543 42.4m
+step 19320 loss 1.4921 42.5m
+step 19340 loss 1.5535 42.5m
+step 19360 loss 1.4913 42.6m
+step 19380 loss 1.5536 42.6m
+step 19400 loss 1.4913 42.6m
+val step 19400 loss 1.6781
+step 19420 loss 1.5534 42.7m
+step 19440 loss 1.4914 42.7m
+step 19460 loss 1.5533 42.8m
+step 19480 loss 1.4915 42.8m
+step 19500 loss 1.5533 42.9m
+step 19520 loss 1.4915 42.9m
+step 19540 loss 1.5533 43.0m
+step 19560 loss 1.4916 43.0m
+step 19580 loss 1.5533 43.0m
+step 19600 loss 1.4916 43.1m
+val step 19600 loss 1.6730
+step 19620 loss 1.5533 43.1m
+step 19640 loss 1.4917 43.2m
+step 19660 loss 1.5533 43.2m
+step 19680 loss 1.4917 43.3m
+step 19700 loss 1.5533 43.3m
+step 19720 loss 1.4917 43.3m
+step 19740 loss 1.5533 43.4m
+step 19760 loss 1.4917 43.4m
+step 19780 loss 1.5533 43.5m
+step 19800 loss 1.4917 43.5m
+val step 19800 loss 1.6733
+step 19820 loss 1.5533 43.6m
+step 19840 loss 1.4917 43.6m
+step 19860 loss 1.5533 43.7m
+step 19880 loss 1.4917 43.7m
+step 19900 loss 1.5533 43.7m
+step 19920 loss 1.4917 43.8m
+step 19940 loss 1.5533 43.8m
+step 19960 loss 1.4916 43.9m
+step 19980 loss 1.5533 43.9m
+step 20000 loss 1.4916 44.0m
+val step 20000 loss 1.6735
+step 20020 loss 1.5533 44.0m
+step 20040 loss 1.4915 44.1m
+step 20060 loss 1.5533 44.1m
+step 20080 loss 1.4915 44.1m
+step 20100 loss 1.5533 44.2m
+step 20120 loss 1.4914 44.2m
+step 20140 loss 1.5533 44.3m
+step 20160 loss 1.4913 44.3m
+step 20180 loss 1.5533 44.4m
+step 20200 loss 1.4912 44.4m
+val step 20200 loss 1.6737
+step 20220 loss 1.5532 44.4m
+step 20240 loss 1.4910 44.5m
+step 20260 loss 1.5532 44.5m
+step 20280 loss 1.4909 44.6m
+step 20300 loss 1.5532 44.6m
+step 20320 loss 1.4907 44.7m
+step 20340 loss 1.5532 44.7m
+step 20360 loss 1.4906 44.7m
+step 20380 loss 1.5532 44.8m
+step 20400 loss 1.4904 44.8m
+val step 20400 loss 1.6739
+step 20420 loss 1.5532 44.9m
+step 20440 loss 1.4903 44.9m
+step 20460 loss 1.5532 45.0m
+step 20480 loss 1.4901 45.0m
+step 20500 loss 1.5532 45.1m
+step 20520 loss 1.4899 45.1m
+step 20540 loss 1.5532 45.1m
+step 20560 loss 1.4898 45.2m
+step 20580 loss 1.5532 45.2m
+step 20600 loss 1.4897 45.3m
+val step 20600 loss 1.6755
+step 20620 loss 1.5532 45.3m
+step 20640 loss 1.4898 45.4m
+step 20660 loss 1.5532 45.4m
+step 20680 loss 1.4894 45.4m
+step 20700 loss 1.5532 45.5m
+step 20720 loss 1.4892 45.5m
+step 20740 loss 1.5532 45.6m
+step 20760 loss 1.4890 45.6m
+step 20780 loss 1.5533 45.7m
+step 20800 loss 1.4890 45.7m
+val step 20800 loss 1.6901
+step 20820 loss 1.5534 45.7m
+step 20840 loss 1.4887 45.8m
+step 20860 loss 1.5544 45.8m
+step 20880 loss 1.4874 45.9m
+step 20900 loss 1.5549 45.9m
+step 20920 loss 1.4904 46.0m
+step 20940 loss 1.5587 46.0m
+step 20960 loss 1.4906 46.0m
+step 20980 loss 1.5592 46.1m
+step 21000 loss 1.4971 46.1m
+val step 21000 loss 1.6538
+step 21020 loss 1.5570 46.2m
+step 21040 loss 1.5002 46.2m
+step 21060 loss 1.5612 46.3m
+step 21080 loss 1.4930 46.3m
+step 21100 loss 1.5572 46.4m
+step 21120 loss 1.4924 46.4m
+step 21140 loss 1.5557 46.4m
+step 21160 loss 1.4952 46.5m
+step 21180 loss 1.5544 46.5m
+step 21200 loss 1.4911 46.6m
+val step 21200 loss 1.6733
+step 21220 loss 1.5563 46.6m
+step 21240 loss 1.4907 46.7m
+step 21260 loss 1.5543 46.7m
+step 21280 loss 1.4929 46.7m
+step 21300 loss 1.5628 46.8m
+step 21320 loss 1.4948 46.8m
+step 21340 loss 1.5549 46.9m
+step 21360 loss 1.4926 46.9m
+step 21380 loss 1.5553 47.0m
+step 21400 loss 1.4902 47.0m
+val step 21400 loss 1.6723
+step 21420 loss 1.5540 47.0m
+step 21440 loss 1.4915 47.1m
+step 21460 loss 1.5545 47.1m
+step 21480 loss 1.4901 47.2m
+step 21500 loss 1.5537 47.2m
+step 21520 loss 1.4901 47.3m
+step 21540 loss 1.5543 47.3m
+step 21560 loss 1.4921 47.3m
+step 21580 loss 1.5540 47.4m
+step 21600 loss 1.4905 47.4m
+val step 21600 loss 1.6801
+step 21620 loss 1.5549 47.5m
+step 21640 loss 1.4923 47.5m
+step 21660 loss 1.5548 47.6m
+step 21680 loss 1.4950 47.6m
+step 21700 loss 1.5553 47.7m
+step 21720 loss 1.4946 47.7m
+step 21740 loss 1.5536 47.7m
+step 21760 loss 1.4910 47.8m
+step 21780 loss 1.5548 47.8m
+step 21800 loss 1.4923 47.9m
+val step 21800 loss 1.6734
+step 21820 loss 1.5549 47.9m
+step 21840 loss 1.4921 48.0m
+step 21860 loss 1.5542 48.0m
+step 21880 loss 1.4912 48.0m
+step 21900 loss 1.5534 48.1m
+step 21920 loss 1.4910 48.1m
+step 21940 loss 1.5536 48.2m
+step 21960 loss 1.4913 48.2m
+step 21980 loss 1.5536 48.3m
+step 22000 loss 1.4912 48.3m
+val step 22000 loss 1.6573
+step 22020 loss 1.5533 48.3m
+step 22040 loss 1.4911 48.4m
+step 22060 loss 1.5533 48.4m
+step 22080 loss 1.4912 48.5m
+step 22100 loss 1.5533 48.5m
+step 22120 loss 1.4913 48.6m
+step 22140 loss 1.5533 48.6m
+step 22160 loss 1.4914 48.7m
+step 22180 loss 1.5533 48.7m
+step 22200 loss 1.4914 48.7m
+val step 22200 loss 1.6642
+step 22220 loss 1.5532 48.8m
+step 22240 loss 1.4915 48.8m
+step 22260 loss 1.5532 48.9m
+step 22280 loss 1.4915 48.9m
+step 22300 loss 1.5532 49.0m
+step 22320 loss 1.4915 49.0m
+step 22340 loss 1.5532 49.0m
+step 22360 loss 1.4916 49.1m
+step 22380 loss 1.5532 49.1m
+step 22400 loss 1.4916 49.2m
+val step 22400 loss 1.6642
+step 22420 loss 1.5532 49.2m
+step 22440 loss 1.4916 49.3m
+step 22460 loss 1.5532 49.3m
+step 22480 loss 1.4916 49.3m
+step 22500 loss 1.5532 49.4m
+step 22520 loss 1.4916 49.4m
+step 22540 loss 1.5532 49.5m
+step 22560 loss 1.4915 49.5m
+step 22580 loss 1.5532 49.6m
+step 22600 loss 1.4915 49.6m
+val step 22600 loss 1.6643
+step 22620 loss 1.5532 49.7m
+step 22640 loss 1.4914 49.7m
+step 22660 loss 1.5532 49.7m
+step 22680 loss 1.4914 49.8m
+step 22700 loss 1.5532 49.8m
+step 22720 loss 1.4913 49.9m
+step 22740 loss 1.5532 49.9m
+step 22760 loss 1.4912 50.0m
+step 22780 loss 1.5532 50.0m
+step 22800 loss 1.4912 50.0m
+val step 22800 loss 1.6644
+step 22820 loss 1.5532 50.1m
+step 22840 loss 1.4911 50.1m
+step 22860 loss 1.5532 50.2m
+step 22880 loss 1.4909 50.2m
+step 22900 loss 1.5532 50.3m
+step 22920 loss 1.4908 50.3m
+step 22940 loss 1.5532 50.3m
+step 22960 loss 1.4907 50.4m
+step 22980 loss 1.5532 50.4m
+step 23000 loss 1.4906 50.5m
+val step 23000 loss 1.6647
+step 23020 loss 1.5532 50.5m
+step 23040 loss 1.4904 50.6m
+step 23060 loss 1.5532 50.6m
+step 23080 loss 1.4903 50.7m
+step 23100 loss 1.5532 50.7m
+step 23120 loss 1.4901 50.7m
+step 23140 loss 1.5532 50.8m
+step 23160 loss 1.4900 50.8m
+step 23180 loss 1.5531 50.9m
+step 23200 loss 1.4898 50.9m
+val step 23200 loss 1.6654
+step 23220 loss 1.5531 51.0m
+step 23240 loss 1.4897 51.0m
+step 23260 loss 1.5531 51.0m
+step 23280 loss 1.4895 51.1m
+step 23300 loss 1.5531 51.1m
+step 23320 loss 1.4894 51.2m
+step 23340 loss 1.5531 51.2m
+step 23360 loss 1.4892 51.3m
+step 23380 loss 1.5531 51.3m
+step 23400 loss 1.4891 51.3m
+val step 23400 loss 1.6642
+step 23420 loss 1.5531 51.4m
+step 23440 loss 1.4890 51.4m
+step 23460 loss 1.5532 51.5m
+step 23480 loss 1.4889 51.5m
+step 23500 loss 1.5533 51.6m
+step 23520 loss 1.4884 51.6m
+step 23540 loss 1.5536 51.7m
+step 23560 loss 1.4869 51.7m
+step 23580 loss 1.5539 51.7m
+step 23600 loss 1.4875 51.8m
+val step 23600 loss 1.6737
+step 23620 loss 1.5559 51.8m
+step 23640 loss 1.4899 51.9m
+step 23660 loss 1.5561 51.9m
+step 23680 loss 1.5007 52.0m
+step 23700 loss 1.5566 52.0m
+step 23720 loss 1.4951 52.0m
+step 23740 loss 1.5564 52.1m
+step 23760 loss 1.5023 52.1m
+step 23780 loss 1.5561 52.2m
+step 23800 loss 1.4986 52.2m
+val step 23800 loss 1.6754
+step 23820 loss 1.5572 52.3m
+step 23840 loss 1.4962 52.3m
+step 23860 loss 1.5555 52.3m
+step 23880 loss 1.4914 52.4m
+step 23900 loss 1.5558 52.4m
+step 23920 loss 1.4919 52.5m
+step 23940 loss 1.5546 52.5m
+step 23960 loss 1.4921 52.6m
+step 23980 loss 1.5561 52.6m
+step 24000 loss 1.4924 52.6m
+val step 24000 loss 1.6458
+step 24020 loss 1.5571 52.7m
+step 24040 loss 1.4947 52.7m
+step 24060 loss 1.5548 52.8m
+step 24080 loss 1.4927 52.8m
+step 24100 loss 1.5551 52.9m
+step 24120 loss 1.4905 52.9m
+step 24140 loss 1.5537 53.0m
+step 24160 loss 1.4926 53.0m
+step 24180 loss 1.5538 53.0m
+step 24200 loss 1.4911 53.1m
+val step 24200 loss 1.6626
+step 24220 loss 1.5536 53.1m
+step 24240 loss 1.4904 53.2m
+step 24260 loss 1.5534 53.2m
+step 24280 loss 1.4904 53.3m
+step 24300 loss 1.5538 53.3m
+step 24320 loss 1.4916 53.3m
+step 24340 loss 1.5538 53.4m
+step 24360 loss 1.4917 53.4m
+step 24380 loss 1.5533 53.5m
+step 24400 loss 1.4905 53.5m
+val step 24400 loss 1.6545
+step 24420 loss 1.5534 53.6m
+step 24440 loss 1.4909 53.6m
+step 24460 loss 1.5534 53.7m
+step 24480 loss 1.4910 53.7m
+step 24500 loss 1.5533 53.7m
+step 24520 loss 1.4910 53.8m
+step 24540 loss 1.5533 53.8m
+step 24560 loss 1.4909 53.9m
+step 24580 loss 1.5532 53.9m
+step 24600 loss 1.4909 54.0m
+val step 24600 loss 1.6548
+step 24620 loss 1.5532 54.0m
+step 24640 loss 1.4910 54.0m
+step 24660 loss 1.5532 54.1m
+step 24680 loss 1.4911 54.1m
+step 24700 loss 1.5532 54.2m
+step 24720 loss 1.4911 54.2m
+step 24740 loss 1.5532 54.3m
+step 24760 loss 1.4912 54.3m
+step 24780 loss 1.5532 54.3m
+step 24800 loss 1.4913 54.4m
+val step 24800 loss 1.6561
+step 24820 loss 1.5532 54.4m
+step 24840 loss 1.4913 54.5m
+step 24860 loss 1.5532 54.5m
+step 24880 loss 1.4914 54.6m
+step 24900 loss 1.5532 54.6m
+step 24920 loss 1.4914 54.7m
+step 24940 loss 1.5532 54.7m
+step 24960 loss 1.4914 54.7m
+step 24980 loss 1.5532 54.8m
+step 25000 loss 1.4915 54.8m
+val step 25000 loss 1.6556
+step 25020 loss 1.5532 54.9m
+step 25040 loss 1.4915 54.9m
+step 25060 loss 1.5532 55.0m
+step 25080 loss 1.4915 55.0m
+step 25100 loss 1.5532 55.0m
+step 25120 loss 1.4915 55.1m
+step 25140 loss 1.5532 55.1m
+step 25160 loss 1.4915 55.2m
+step 25180 loss 1.5532 55.2m
+step 25200 loss 1.4914 55.3m
+val step 25200 loss 1.6557
+step 25220 loss 1.5532 55.3m
+step 25240 loss 1.4914 55.3m
+step 25260 loss 1.5532 55.4m
+step 25280 loss 1.4914 55.4m
+step 25300 loss 1.5532 55.5m
+step 25320 loss 1.4913 55.5m
+step 25340 loss 1.5531 55.6m
+step 25360 loss 1.4913 55.6m
+step 25380 loss 1.5531 55.6m
+step 25400 loss 1.4912 55.7m
+val step 25400 loss 1.6557
+step 25420 loss 1.5531 55.7m
+step 25440 loss 1.4911 55.8m
+step 25460 loss 1.5531 55.8m
+step 25480 loss 1.4910 55.9m
+step 25500 loss 1.5531 55.9m
+step 25520 loss 1.4909 55.9m
+step 25540 loss 1.5531 56.0m
+step 25560 loss 1.4908 56.0m
+step 25580 loss 1.5531 56.1m
+step 25600 loss 1.4907 56.1m
+val step 25600 loss 1.6560
+step 25620 loss 1.5531 56.2m
+step 25640 loss 1.4906 56.2m
+step 25660 loss 1.5531 56.3m
+step 25680 loss 1.4904 56.3m
+step 25700 loss 1.5531 56.3m
+step 25720 loss 1.4903 56.4m
+step 25740 loss 1.5531 56.4m
+step 25760 loss 1.4901 56.5m
+step 25780 loss 1.5531 56.5m
+step 25800 loss 1.4900 56.6m
+val step 25800 loss 1.6562
+step 25820 loss 1.5531 56.6m
+step 25840 loss 1.4899 56.6m
+step 25860 loss 1.5531 56.7m
+step 25880 loss 1.4897 56.7m
+step 25900 loss 1.5531 56.8m
+step 25920 loss 1.4896 56.8m
+step 25940 loss 1.5531 56.9m
+step 25960 loss 1.4895 56.9m
+step 25980 loss 1.5531 56.9m
+step 26000 loss 1.4894 57.0m
+val step 26000 loss 1.6566
+step 26020 loss 1.5531 57.0m
+step 26040 loss 1.4893 57.1m
+step 26060 loss 1.5531 57.1m
+step 26080 loss 1.4892 57.2m
+step 26100 loss 1.5531 57.2m
+step 26120 loss 1.4890 57.2m
+step 26140 loss 1.5533 57.3m
+step 26160 loss 1.4884 57.3m
+step 26180 loss 1.5539 57.4m
+step 26200 loss 1.4871 57.4m
+val step 26200 loss 1.6533
+step 26220 loss 1.5551 57.5m
+step 26240 loss 1.4893 57.5m
+step 26260 loss 1.5560 57.6m
+step 26280 loss 1.4993 57.6m
+step 26300 loss 1.5571 57.6m
+step 26320 loss 1.4959 57.7m
+step 26340 loss 1.5578 57.7m
+step 26360 loss 1.5105 57.8m
+step 26380 loss 1.5626 57.8m
+step 26400 loss 1.5029 57.9m
+val step 26400 loss 1.6759
+step 26420 loss 1.5589 57.9m
+step 26440 loss 1.4926 57.9m
+step 26460 loss 1.5551 58.0m
+step 26480 loss 1.4913 58.0m
+step 26500 loss 1.5547 58.1m
+step 26520 loss 1.4913 58.1m
+step 26540 loss 1.5540 58.2m
+step 26560 loss 1.4905 58.2m
+step 26580 loss 1.5541 58.2m
+step 26600 loss 1.4903 58.3m
+val step 26600 loss 1.6470
+step 26620 loss 1.5546 58.3m
+step 26640 loss 1.4914 58.4m
+step 26660 loss 1.5546 58.4m
+step 26680 loss 1.4910 58.5m
+step 26700 loss 1.5541 58.5m
+step 26720 loss 1.4916 58.5m
+step 26740 loss 1.5556 58.6m
+step 26760 loss 1.4925 58.6m
+step 26780 loss 1.5538 58.7m
+step 26800 loss 1.4937 58.7m
+val step 26800 loss 1.6471
+step 26820 loss 1.5540 58.8m
+step 26840 loss 1.4916 58.8m
+step 26860 loss 1.5546 58.9m
+step 26880 loss 1.4908 58.9m
+step 26900 loss 1.5542 58.9m
+step 26920 loss 1.4922 59.0m
+step 26940 loss 1.5543 59.0m
+step 26960 loss 1.4923 59.1m
+step 26980 loss 1.5538 59.1m
+step 27000 loss 1.4912 59.1m
+val step 27000 loss 1.6477
+step 27020 loss 1.5534 59.2m
+step 27040 loss 1.4909 59.2m
+step 27060 loss 1.5535 59.3m
+step 27080 loss 1.4913 59.3m
+step 27100 loss 1.5537 59.4m
+step 27120 loss 1.4917 59.4m
+step 27140 loss 1.5543 59.5m
+step 27160 loss 1.4916 59.5m
+step 27180 loss 1.5539 59.5m
+step 27200 loss 1.4912 59.6m
+val step 27200 loss 1.6542
+step 27220 loss 1.5533 59.6m
+step 27240 loss 1.4912 59.7m
+step 27260 loss 1.5534 59.7m
+step 27280 loss 1.4914 59.8m
+step 27300 loss 1.5534 59.8m
+step 27320 loss 1.4913 59.8m
+step 27340 loss 1.5532 59.9m
+step 27360 loss 1.4912 59.9m
+step 27380 loss 1.5532 60.0m
+step 27400 loss 1.4913 60.0m
+val step 27400 loss 1.6526
+step 27420 loss 1.5532 60.1m
+step 27440 loss 1.4914 60.1m
+step 27460 loss 1.5532 60.2m
+step 27480 loss 1.4914 60.2m
+step 27500 loss 1.5532 60.2m
+step 27520 loss 1.4915 60.3m
+step 27540 loss 1.5532 60.3m
+step 27560 loss 1.4915 60.4m
+step 27580 loss 1.5532 60.4m
+step 27600 loss 1.4915 60.5m
+val step 27600 loss 1.6518
+step 27620 loss 1.5532 60.5m
+step 27640 loss 1.4915 60.5m
+step 27660 loss 1.5532 60.6m
+step 27680 loss 1.4916 60.6m
+step 27700 loss 1.5532 60.7m
+step 27720 loss 1.4916 60.7m
+step 27740 loss 1.5532 60.8m
+step 27760 loss 1.4916 60.8m
+step 27780 loss 1.5532 60.8m
+step 27800 loss 1.4915 60.9m
+val step 27800 loss 1.6517
+step 27820 loss 1.5532 60.9m
+step 27840 loss 1.4915 61.0m
+step 27860 loss 1.5532 61.0m
+step 27880 loss 1.4915 61.1m
+step 27900 loss 1.5532 61.1m
+step 27920 loss 1.4915 61.1m
+step 27940 loss 1.5532 61.2m
+step 27960 loss 1.4914 61.2m
+step 27980 loss 1.5532 61.3m
+step 28000 loss 1.4913 61.3m
+val step 28000 loss 1.6516
+step 28020 loss 1.5532 61.4m
+step 28040 loss 1.4913 61.4m
+step 28060 loss 1.5532 61.5m
+step 28080 loss 1.4912 61.5m
+step 28100 loss 1.5532 61.5m
+step 28120 loss 1.4911 61.6m
+step 28140 loss 1.5532 61.6m
+step 28160 loss 1.4910 61.7m
+step 28180 loss 1.5532 61.7m
+step 28200 loss 1.4909 61.8m
+val step 28200 loss 1.6516
+step 28220 loss 1.5532 61.8m
+step 28240 loss 1.4908 61.8m
+step 28260 loss 1.5532 61.9m
+step 28280 loss 1.4907 61.9m
+step 28300 loss 1.5531 62.0m
+step 28320 loss 1.4905 62.0m
+step 28340 loss 1.5531 62.1m
+step 28360 loss 1.4904 62.1m
+step 28380 loss 1.5531 62.1m
+step 28400 loss 1.4903 62.2m
+val step 28400 loss 1.6516
+step 28420 loss 1.5531 62.2m
+step 28440 loss 1.4902 62.3m
+step 28460 loss 1.5531 62.3m
+step 28480 loss 1.4900 62.4m
+step 28500 loss 1.5531 62.4m
+step 28520 loss 1.4899 62.5m
+step 28540 loss 1.5531 62.5m
+step 28560 loss 1.4898 62.5m
+step 28580 loss 1.5531 62.6m
+step 28600 loss 1.4896 62.6m
+val step 28600 loss 1.6510
+step 28620 loss 1.5531 62.7m
+step 28640 loss 1.4895 62.7m
+step 28660 loss 1.5531 62.8m
+step 28680 loss 1.4894 62.8m
+step 28700 loss 1.5531 62.8m
+step 28720 loss 1.4893 62.9m
+step 28740 loss 1.5531 62.9m
+step 28760 loss 1.4892 63.0m
+step 28780 loss 1.5531 63.0m
+step 28800 loss 1.4888 63.1m
+val step 28800 loss 1.6480
+step 28820 loss 1.5532 63.1m
+step 28840 loss 1.4865 63.1m
+step 28860 loss 1.5538 63.2m
+step 28880 loss 1.4870 63.2m
+step 28900 loss 1.5538 63.3m
+step 28920 loss 1.4870 63.3m
+step 28940 loss 1.5534 63.4m
+step 28960 loss 1.4884 63.4m
+step 28980 loss 1.5546 63.4m
+step 29000 loss 1.4914 63.5m
+val step 29000 loss 1.6341
+step 29020 loss 1.5572 63.5m
+step 29040 loss 1.4906 63.6m
+step 29060 loss 1.5550 63.6m
+step 29080 loss 1.4950 63.7m
+step 29100 loss 1.5578 63.7m
+step 29120 loss 1.5013 63.8m
+step 29140 loss 1.5565 63.8m
+step 29160 loss 1.4971 63.8m
+step 29180 loss 1.5552 63.9m
+step 29200 loss 1.4913 63.9m
+val step 29200 loss 1.6391
+step 29220 loss 1.5551 64.0m
+step 29240 loss 1.4909 64.0m
+step 29260 loss 1.5555 64.1m
+step 29280 loss 1.4927 64.1m
+step 29300 loss 1.5544 64.1m
+step 29320 loss 1.4900 64.2m
+step 29340 loss 1.5540 64.2m
+step 29360 loss 1.4919 64.3m
+step 29380 loss 1.5574 64.3m
+step 29400 loss 1.4907 64.4m
+val step 29400 loss 1.6317
+step 29420 loss 1.5539 64.4m
+step 29440 loss 1.4920 64.5m
+step 29460 loss 1.5541 64.5m
+step 29480 loss 1.4903 64.5m
+step 29500 loss 1.5534 64.6m
+step 29520 loss 1.4907 64.6m
+step 29540 loss 1.5534 64.7m
+step 29560 loss 1.4907 64.7m
+step 29580 loss 1.5536 64.8m
+step 29600 loss 1.4907 64.8m
+val step 29600 loss 1.6482
+step 29620 loss 1.5536 64.9m
+step 29640 loss 1.4906 64.9m
+step 29660 loss 1.5539 64.9m
+step 29680 loss 1.4915 65.0m
+step 29700 loss 1.5538 65.0m
+step 29720 loss 1.4915 65.1m
+step 29740 loss 1.5533 65.1m
+step 29760 loss 1.4908 65.2m
+step 29780 loss 1.5534 65.2m
+step 29800 loss 1.4910 65.2m
+val step 29800 loss 1.6553
+step 29820 loss 1.5537 65.3m
+step 29840 loss 1.4915 65.3m
+step 29860 loss 1.5537 65.4m
+step 29880 loss 1.4914 65.4m
+step 29900 loss 1.5534 65.5m
+step 29920 loss 1.4912 65.5m
+step 29940 loss 1.5532 65.5m
+step 29960 loss 1.4912 65.6m
+step 29980 loss 1.5532 65.6m
+step 30000 loss 1.4912 65.7m
+val step 30000 loss 1.6470
+step 30020 loss 1.5532 65.7m
+step 30040 loss 1.4912 65.8m
+step 30060 loss 1.5532 65.8m
+step 30080 loss 1.4913 65.9m
+step 30100 loss 1.5532 65.9m
+step 30120 loss 1.4913 65.9m
+step 30140 loss 1.5532 66.0m
+step 30160 loss 1.4914 66.0m
+step 30180 loss 1.5532 66.1m
+step 30200 loss 1.4914 66.1m
+val step 30200 loss 1.6507
+step 30220 loss 1.5532 66.2m
+step 30240 loss 1.4914 66.2m
+step 30260 loss 1.5532 66.2m
+step 30280 loss 1.4915 66.3m
+step 30300 loss 1.5532 66.3m
+step 30320 loss 1.4915 66.4m
+step 30340 loss 1.5532 66.4m
+step 30360 loss 1.4915 66.5m
+step 30380 loss 1.5532 66.5m
+step 30400 loss 1.4915 66.6m
+val step 30400 loss 1.6508
+step 30420 loss 1.5532 66.6m
+step 30440 loss 1.4915 66.6m
+step 30460 loss 1.5532 66.7m
+step 30480 loss 1.4914 66.7m
+step 30500 loss 1.5532 66.8m
+step 30520 loss 1.4914 66.8m
+step 30540 loss 1.5532 66.9m
+step 30560 loss 1.4914 66.9m
+step 30580 loss 1.5532 66.9m
+step 30600 loss 1.4913 67.0m
+val step 30600 loss 1.6509
+step 30620 loss 1.5532 67.0m
+step 30640 loss 1.4913 67.1m
+step 30660 loss 1.5532 67.1m
+step 30680 loss 1.4912 67.2m
+step 30700 loss 1.5532 67.2m
+step 30720 loss 1.4911 67.3m
+step 30740 loss 1.5531 67.3m
+step 30760 loss 1.4910 67.3m
+step 30780 loss 1.5531 67.4m
+step 30800 loss 1.4910 67.4m
+val step 30800 loss 1.6510
+step 30820 loss 1.5531 67.5m
+step 30840 loss 1.4909 67.5m
+step 30860 loss 1.5531 67.6m
+step 30880 loss 1.4907 67.6m
+step 30900 loss 1.5531 67.6m
+step 30920 loss 1.4906 67.7m
+step 30940 loss 1.5531 67.7m
+step 30960 loss 1.4905 67.8m
+step 30980 loss 1.5531 67.8m
+step 31000 loss 1.4904 67.9m
+val step 31000 loss 1.6513
+step 31020 loss 1.5531 67.9m
+step 31040 loss 1.4903 68.0m
+step 31060 loss 1.5531 68.0m
+step 31080 loss 1.4901 68.0m
+step 31100 loss 1.5531 68.1m
+step 31120 loss 1.4900 68.1m
+step 31140 loss 1.5531 68.2m
+step 31160 loss 1.4899 68.2m
+step 31180 loss 1.5531 68.3m
+step 31200 loss 1.4898 68.3m
+val step 31200 loss 1.6514
+step 31220 loss 1.5531 68.3m
+step 31240 loss 1.4896 68.4m
+step 31260 loss 1.5531 68.4m
+step 31280 loss 1.4895 68.5m
+step 31300 loss 1.5531 68.5m
+step 31320 loss 1.4894 68.6m
+step 31340 loss 1.5531 68.6m
+step 31360 loss 1.4893 68.7m
+step 31380 loss 1.5531 68.7m
+step 31400 loss 1.4889 68.7m
+val step 31400 loss 1.6491
+step 31420 loss 1.5532 68.8m
+step 31440 loss 1.4881 68.8m
+step 31460 loss 1.5533 68.9m
+step 31480 loss 1.4876 68.9m
+step 31500 loss 1.5534 69.0m
+step 31520 loss 1.4876 69.0m
+step 31540 loss 1.5535 69.0m
+step 31560 loss 1.4892 69.1m
+step 31580 loss 1.5534 69.1m
+step 31600 loss 1.4904 69.2m
+val step 31600 loss 1.6274
+step 31620 loss 1.5537 69.2m
+step 31640 loss 1.4914 69.3m
+step 31660 loss 1.5561 69.3m
+step 31680 loss 1.4903 69.4m
+step 31700 loss 1.5558 69.4m
+step 31720 loss 1.4928 69.4m
+step 31740 loss 1.5560 69.5m
+step 31760 loss 1.4919 69.5m
+step 31780 loss 1.5550 69.6m
+step 31800 loss 1.4901 69.6m
+val step 31800 loss 1.6193
+step 31820 loss 1.5554 69.7m
+step 31840 loss 1.4910 69.7m
+step 31860 loss 1.5539 69.8m
+step 31880 loss 1.4915 69.8m
+step 31900 loss 1.5542 69.8m
+step 31920 loss 1.4928 69.9m
+step 31940 loss 1.5538 69.9m
+step 31960 loss 1.4900 70.0m
+step 31980 loss 1.5536 70.0m
+step 32000 loss 1.4909 70.1m
+val step 32000 loss 1.6343
+step 32020 loss 1.5547 70.1m
+step 32040 loss 1.4911 70.2m
+step 32060 loss 1.5539 70.2m
+step 32080 loss 1.4914 70.2m
+step 32100 loss 1.5544 70.3m
+step 32120 loss 1.4910 70.3m
+step 32140 loss 1.5535 70.4m
+step 32160 loss 1.4915 70.4m
+step 32180 loss 1.5541 70.5m
+step 32200 loss 1.4903 70.5m
+val step 32200 loss 1.6377
+step 32220 loss 1.5533 70.5m
+step 32240 loss 1.4906 70.6m
+step 32260 loss 1.5534 70.6m
+step 32280 loss 1.4906 70.7m
+step 32300 loss 1.5532 70.7m
+step 32320 loss 1.4905 70.8m
+step 32340 loss 1.5535 70.8m
+step 32360 loss 1.4907 70.9m
+step 32380 loss 1.5534 70.9m
+step 32400 loss 1.4911 70.9m
+val step 32400 loss 1.6334
+step 32420 loss 1.5533 71.0m
+step 32440 loss 1.4910 71.0m
+step 32460 loss 1.5531 71.1m
+step 32480 loss 1.4907 71.1m
+step 32500 loss 1.5533 71.2m
+step 32520 loss 1.4912 71.2m
+step 32540 loss 1.5534 71.2m
+step 32560 loss 1.4914 71.3m
+step 32580 loss 1.5533 71.3m
+step 32600 loss 1.4912 71.4m
+val step 32600 loss 1.6427
+step 32620 loss 1.5531 71.4m
+step 32640 loss 1.4911 71.5m
+step 32660 loss 1.5531 71.5m
+step 32680 loss 1.4911 71.6m
+step 32700 loss 1.5531 71.6m
+step 32720 loss 1.4912 71.6m
+step 32740 loss 1.5531 71.7m
+step 32760 loss 1.4912 71.7m
+step 32780 loss 1.5531 71.8m
+step 32800 loss 1.4913 71.8m
+val step 32800 loss 1.6403
+step 32820 loss 1.5531 71.9m
+step 32840 loss 1.4913 71.9m
+step 32860 loss 1.5531 72.0m
+step 32880 loss 1.4913 72.0m
+step 32900 loss 1.5531 72.0m
+step 32920 loss 1.4914 72.1m
+step 32940 loss 1.5531 72.1m
+step 32960 loss 1.4914 72.2m
+step 32980 loss 1.5531 72.2m
+step 33000 loss 1.4914 72.3m
+val step 33000 loss 1.6407
+step 33020 loss 1.5531 72.3m
+step 33040 loss 1.4914 72.3m
+step 33060 loss 1.5531 72.4m
+step 33080 loss 1.4914 72.4m
+step 33100 loss 1.5531 72.5m
+step 33120 loss 1.4913 72.5m
+step 33140 loss 1.5531 72.6m
+step 33160 loss 1.4913 72.6m
+step 33180 loss 1.5531 72.7m
+step 33200 loss 1.4913 72.7m
+val step 33200 loss 1.6408
+step 33220 loss 1.5531 72.7m
+step 33240 loss 1.4912 72.8m
+step 33260 loss 1.5531 72.8m
+step 33280 loss 1.4912 72.9m
+step 33300 loss 1.5531 72.9m
+step 33320 loss 1.4911 73.0m
+step 33340 loss 1.5531 73.0m
+step 33360 loss 1.4911 73.0m
+step 33380 loss 1.5531 73.1m
+step 33400 loss 1.4910 73.1m
+val step 33400 loss 1.6410
+step 33420 loss 1.5531 73.2m
+step 33440 loss 1.4909 73.2m
+step 33460 loss 1.5531 73.3m
+step 33480 loss 1.4908 73.3m
+step 33500 loss 1.5531 73.4m
+step 33520 loss 1.4907 73.4m
+step 33540 loss 1.5531 73.4m
+step 33560 loss 1.4906 73.5m
+step 33580 loss 1.5531 73.5m
+step 33600 loss 1.4905 73.6m
+val step 33600 loss 1.6412
+step 33620 loss 1.5531 73.6m
+step 33640 loss 1.4903 73.7m
+step 33660 loss 1.5531 73.7m
+step 33680 loss 1.4902 73.8m
+step 33700 loss 1.5531 73.8m
+step 33720 loss 1.4901 73.8m
+step 33740 loss 1.5530 73.9m
+step 33760 loss 1.4900 73.9m
+step 33780 loss 1.5530 74.0m
+step 33800 loss 1.4899 74.0m
+val step 33800 loss 1.6411
+step 33820 loss 1.5530 74.1m
+step 33840 loss 1.4897 74.1m
+step 33860 loss 1.5530 74.2m
+step 33880 loss 1.4896 74.2m
+step 33900 loss 1.5530 74.2m
+step 33920 loss 1.4895 74.3m
+step 33940 loss 1.5530 74.3m
+step 33960 loss 1.4894 74.4m
+step 33980 loss 1.5531 74.4m
+step 34000 loss 1.4891 74.5m
+val step 34000 loss 1.6410
+step 34020 loss 1.5533 74.5m
+step 34040 loss 1.4880 74.6m
+step 34060 loss 1.5536 74.6m
+step 34080 loss 1.4844 74.6m
+step 34100 loss 1.5540 74.7m
+step 34120 loss 1.4837 74.7m
+step 34140 loss 1.5537 74.8m
+step 34160 loss 1.4860 74.8m
+step 34180 loss 1.5544 74.9m
+step 34200 loss 1.4889 74.9m
+val step 34200 loss 1.6499
+step 34220 loss 1.5541 75.0m
+step 34240 loss 1.4944 75.0m
+step 34260 loss 1.5566 75.0m
+step 34280 loss 1.4936 75.1m
+step 34300 loss 1.5552 75.1m
+step 34320 loss 1.4928 75.2m
+step 34340 loss 1.5585 75.2m
+step 34360 loss 1.4969 75.3m
+step 34380 loss 1.5548 75.3m
+step 34400 loss 1.4939 75.3m
+val step 34400 loss 1.6612
+step 34420 loss 1.5547 75.4m
+step 34440 loss 1.4959 75.4m
+step 34460 loss 1.5546 75.5m
+step 34480 loss 1.4914 75.5m
+step 34500 loss 1.5544 75.6m
+step 34520 loss 1.4910 75.6m
+step 34540 loss 1.5559 75.7m
+step 34560 loss 1.4908 75.7m
+step 34580 loss 1.5538 75.7m
+step 34600 loss 1.4908 75.8m
+val step 34600 loss 1.6487
+step 34620 loss 1.5546 75.8m
+step 34640 loss 1.4901 75.9m
+step 34660 loss 1.5534 75.9m
+step 34680 loss 1.4917 76.0m
+step 34700 loss 1.5536 76.0m
+step 34720 loss 1.4902 76.1m
+step 34740 loss 1.5536 76.1m
+step 34760 loss 1.4902 76.1m
+step 34780 loss 1.5537 76.2m
+step 34800 loss 1.4907 76.2m
+val step 34800 loss 1.6369
+step 34820 loss 1.5542 76.3m
+step 34840 loss 1.4905 76.3m
+step 34860 loss 1.5543 76.4m
+step 34880 loss 1.4922 76.4m
+step 34900 loss 1.5542 76.4m
+step 34920 loss 1.4927 76.5m
+step 34940 loss 1.5535 76.5m
+step 34960 loss 1.4911 76.6m
+step 34980 loss 1.5537 76.6m
+step 35000 loss 1.4913 76.7m
+val step 35000 loss 1.6432
+step 35020 loss 1.5544 76.7m
+step 35040 loss 1.4922 76.8m
+step 35060 loss 1.5547 76.8m
+step 35080 loss 1.4923 76.8m
+step 35100 loss 1.5540 76.9m
+step 35120 loss 1.4912 76.9m
+step 35140 loss 1.5533 77.0m
+step 35160 loss 1.4911 77.0m
+step 35180 loss 1.5533 77.1m
+step 35200 loss 1.4911 77.1m
+val step 35200 loss 1.6368
+step 35220 loss 1.5532 77.2m
+step 35240 loss 1.4910 77.2m
+step 35260 loss 1.5532 77.2m
+step 35280 loss 1.4911 77.3m
+step 35300 loss 1.5532 77.3m
+step 35320 loss 1.4912 77.4m
+step 35340 loss 1.5532 77.4m
+step 35360 loss 1.4912 77.5m
+step 35380 loss 1.5532 77.5m
+step 35400 loss 1.4913 77.5m
+val step 35400 loss 1.6428
+step 35420 loss 1.5532 77.6m
+step 35440 loss 1.4913 77.6m
+step 35460 loss 1.5532 77.7m
+step 35480 loss 1.4914 77.7m
+step 35500 loss 1.5532 77.8m
+step 35520 loss 1.4914 77.8m
+step 35540 loss 1.5532 77.9m
+step 35560 loss 1.4914 77.9m
+step 35580 loss 1.5531 77.9m
+step 35600 loss 1.4914 78.0m
+val step 35600 loss 1.6428
+step 35620 loss 1.5531 78.0m
+step 35640 loss 1.4914 78.1m
+step 35660 loss 1.5531 78.1m
+step 35680 loss 1.4914 78.2m
+step 35700 loss 1.5531 78.2m
+step 35720 loss 1.4914 78.3m
+step 35740 loss 1.5531 78.3m
+step 35760 loss 1.4914 78.3m
+step 35780 loss 1.5531 78.4m
+step 35800 loss 1.4914 78.4m
+val step 35800 loss 1.6429
+step 35820 loss 1.5531 78.5m
+step 35840 loss 1.4913 78.5m
+step 35860 loss 1.5531 78.6m
+step 35880 loss 1.4913 78.6m
+step 35900 loss 1.5531 78.6m
+step 35920 loss 1.4912 78.7m
+step 35940 loss 1.5531 78.7m
+step 35960 loss 1.4912 78.8m
+step 35980 loss 1.5531 78.8m
+step 36000 loss 1.4911 78.9m
+val step 36000 loss 1.6431
+step 36020 loss 1.5531 78.9m
+step 36040 loss 1.4910 79.0m
+step 36060 loss 1.5531 79.0m
+step 36080 loss 1.4909 79.0m
+step 36100 loss 1.5531 79.1m
+step 36120 loss 1.4908 79.1m
+step 36140 loss 1.5531 79.2m
+step 36160 loss 1.4907 79.2m
+step 36180 loss 1.5531 79.3m
+step 36200 loss 1.4906 79.3m
+val step 36200 loss 1.6433
+step 36220 loss 1.5531 79.4m
+step 36240 loss 1.4905 79.4m
+step 36260 loss 1.5531 79.4m
+step 36280 loss 1.4904 79.5m
+step 36300 loss 1.5531 79.5m
+step 36320 loss 1.4903 79.6m
+step 36340 loss 1.5531 79.6m
+step 36360 loss 1.4902 79.7m
+step 36380 loss 1.5531 79.7m
+step 36400 loss 1.4900 79.7m
+val step 36400 loss 1.6436
+step 36420 loss 1.5531 79.8m
+step 36440 loss 1.4899 79.8m
+step 36460 loss 1.5531 79.9m
+step 36480 loss 1.4898 79.9m
+step 36500 loss 1.5531 80.0m
+step 36520 loss 1.4897 80.0m
+step 36540 loss 1.5530 80.1m
+step 36560 loss 1.4896 80.1m
+step 36580 loss 1.5530 80.1m
+step 36600 loss 1.4895 80.2m
+val step 36600 loss 1.6429
+step 36620 loss 1.5530 80.2m
+step 36640 loss 1.4894 80.3m
+step 36660 loss 1.5530 80.3m
+step 36680 loss 1.4893 80.4m
+step 36700 loss 1.5531 80.4m
+step 36720 loss 1.4892 80.5m
+step 36740 loss 1.5531 80.5m
+step 36760 loss 1.4890 80.5m
+step 36780 loss 1.5531 80.6m
+step 36800 loss 1.4884 80.6m
+val step 36800 loss 1.6382
+step 36820 loss 1.5533 80.7m
+step 36840 loss 1.4860 80.7m
+step 36860 loss 1.5539 80.8m
+step 36880 loss 1.4860 80.8m
+step 36900 loss 1.5536 80.9m
+step 36920 loss 1.4877 80.9m
+step 36940 loss 1.5542 80.9m
+step 36960 loss 1.4903 81.0m
+step 36980 loss 1.5581 81.0m
+step 37000 loss 1.4932 81.1m
+val step 37000 loss 1.6403
+step 37020 loss 1.5557 81.1m
+step 37040 loss 1.4907 81.2m
+step 37060 loss 1.5547 81.2m
+step 37080 loss 1.4909 81.3m
+step 37100 loss 1.5549 81.3m
+step 37120 loss 1.4925 81.3m
+step 37140 loss 1.5538 81.4m
+step 37160 loss 1.4920 81.4m
+step 37180 loss 1.5537 81.5m
+step 37200 loss 1.4904 81.5m
+val step 37200 loss 1.6555
+step 37220 loss 1.5535 81.6m
+step 37240 loss 1.4900 81.6m
+step 37260 loss 1.5534 81.6m
+step 37280 loss 1.4904 81.7m
+step 37300 loss 1.5538 81.7m
+step 37320 loss 1.4906 81.8m
+step 37340 loss 1.5538 81.8m
+step 37360 loss 1.4903 81.9m
+step 37380 loss 1.5537 81.9m
+step 37400 loss 1.4903 81.9m
+val step 37400 loss 1.6388
+step 37420 loss 1.5533 82.0m
+step 37440 loss 1.4912 82.0m
+step 37460 loss 1.5538 82.1m
+step 37480 loss 1.4905 82.1m
+step 37500 loss 1.5534 82.2m
+step 37520 loss 1.4913 82.2m
+step 37540 loss 1.5535 82.3m
+step 37560 loss 1.4914 82.3m
+step 37580 loss 1.5534 82.3m
+step 37600 loss 1.4905 82.4m
+val step 37600 loss 1.6438
+step 37620 loss 1.5534 82.4m
+step 37640 loss 1.4909 82.5m
+step 37660 loss 1.5535 82.5m
+step 37680 loss 1.4917 82.6m
+step 37700 loss 1.5532 82.6m
+step 37720 loss 1.4910 82.7m
+step 37740 loss 1.5531 82.7m
+step 37760 loss 1.4908 82.7m
+step 37780 loss 1.5533 82.8m
+step 37800 loss 1.4910 82.8m
+val step 37800 loss 1.6428
+step 37820 loss 1.5533 82.9m
+step 37840 loss 1.4911 82.9m
+step 37860 loss 1.5532 83.0m
+step 37880 loss 1.4911 83.0m
+step 37900 loss 1.5531 83.1m
+step 37920 loss 1.4911 83.1m
+step 37940 loss 1.5531 83.1m
+step 37960 loss 1.4911 83.2m
+step 37980 loss 1.5531 83.2m
+step 38000 loss 1.4912 83.3m
+val step 38000 loss 1.6396
+step 38020 loss 1.5531 83.3m
+step 38040 loss 1.4912 83.4m
+step 38060 loss 1.5531 83.4m
+step 38080 loss 1.4913 83.5m
+step 38100 loss 1.5531 83.5m
+step 38120 loss 1.4913 83.5m
+step 38140 loss 1.5531 83.6m
+step 38160 loss 1.4913 83.6m
+step 38180 loss 1.5531 83.7m
+step 38200 loss 1.4913 83.7m
+val step 38200 loss 1.6410
+step 38220 loss 1.5531 83.8m
+step 38240 loss 1.4913 83.8m
+step 38260 loss 1.5531 83.9m
+step 38280 loss 1.4913 83.9m
+step 38300 loss 1.5531 83.9m
+step 38320 loss 1.4913 84.0m
+step 38340 loss 1.5531 84.0m
+step 38360 loss 1.4913 84.1m
+step 38380 loss 1.5531 84.1m
+step 38400 loss 1.4913 84.2m
+val step 38400 loss 1.6411
+step 38420 loss 1.5531 84.2m
+step 38440 loss 1.4913 84.2m
+step 38460 loss 1.5531 84.3m
+step 38480 loss 1.4913 84.3m
+step 38500 loss 1.5531 84.4m
+step 38520 loss 1.4912 84.4m
+step 38540 loss 1.5531 84.5m
+step 38560 loss 1.4912 84.5m
+step 38580 loss 1.5531 84.6m
+step 38600 loss 1.4911 84.6m
+val step 38600 loss 1.6413
+step 38620 loss 1.5531 84.6m
+step 38640 loss 1.4910 84.7m
+step 38660 loss 1.5531 84.7m
+step 38680 loss 1.4910 84.8m
+step 38700 loss 1.5531 84.8m
+step 38720 loss 1.4909 84.9m
+step 38740 loss 1.5531 84.9m
+step 38760 loss 1.4908 85.0m
+step 38780 loss 1.5530 85.0m
+step 38800 loss 1.4907 85.0m
+val step 38800 loss 1.6416
+step 38820 loss 1.5530 85.1m
+step 38840 loss 1.4906 85.1m
+step 38860 loss 1.5530 85.2m
+step 38880 loss 1.4905 85.2m
+step 38900 loss 1.5530 85.3m
+step 38920 loss 1.4904 85.3m
+step 38940 loss 1.5530 85.4m
+step 38960 loss 1.4903 85.4m
+step 38980 loss 1.5530 85.4m
+step 39000 loss 1.4901 85.5m
+val step 39000 loss 1.6417
+step 39020 loss 1.5530 85.5m
+step 39040 loss 1.4900 85.6m
+step 39060 loss 1.5530 85.6m
+step 39080 loss 1.4899 85.7m
+step 39100 loss 1.5530 85.7m
+step 39120 loss 1.4898 85.8m
+step 39140 loss 1.5530 85.8m
+step 39160 loss 1.4897 85.8m
+step 39180 loss 1.5530 85.9m
+step 39200 loss 1.4896 85.9m
+val step 39200 loss 1.6435
+step 39220 loss 1.5530 86.0m
+step 39240 loss 1.4893 86.0m
+step 39260 loss 1.5532 86.1m
+step 39280 loss 1.4883 86.1m
+step 39300 loss 1.5534 86.1m
+step 39320 loss 1.4871 86.2m
+step 39340 loss 1.5534 86.2m
+step 39360 loss 1.4877 86.3m
+step 39380 loss 1.5533 86.3m
+step 39400 loss 1.4901 86.4m
+val step 39400 loss 1.6492
+step 39420 loss 1.5538 86.4m
+step 39440 loss 1.4939 86.5m
+step 39460 loss 1.5555 86.5m
+step 39480 loss 1.4910 86.5m
+step 39500 loss 1.5552 86.6m
+step 39520 loss 1.4933 86.6m
+step 39540 loss 1.5556 86.7m
+step 39560 loss 1.4954 86.7m
+step 39580 loss 1.5554 86.8m
+step 39600 loss 1.4923 86.8m
+val step 39600 loss 1.6656
+step 39620 loss 1.5545 86.9m
+step 39640 loss 1.4917 86.9m
+step 39660 loss 1.5542 86.9m
+step 39680 loss 1.4899 87.0m
+step 39700 loss 1.5546 87.0m
+step 39720 loss 1.4899 87.1m
+step 39740 loss 1.5536 87.1m
+step 39760 loss 1.4909 87.2m
+step 39780 loss 1.5546 87.2m
+step 39800 loss 1.4906 87.3m
+val step 39800 loss 1.6166
+step 39820 loss 1.5539 87.3m
+step 39840 loss 1.4904 87.3m
+step 39860 loss 1.5539 87.4m
+step 39880 loss 1.4902 87.4m
+step 39900 loss 1.5541 87.5m
+step 39920 loss 1.4904 87.5m
+step 39940 loss 1.5542 87.6m
+step 39960 loss 1.4907 87.6m
+step 39980 loss 1.5539 87.7m
+step 40000 loss 1.4907 87.7m
+val step 40000 loss 1.6339
+step 40020 loss 1.5537 87.7m
+step 40040 loss 1.4909 87.8m
+step 40060 loss 1.5533 87.8m
+step 40080 loss 1.4905 87.9m
+step 40100 loss 1.5532 87.9m
+step 40120 loss 1.4904 88.0m
+step 40140 loss 1.5532 88.0m
+step 40160 loss 1.4905 88.1m
+step 40180 loss 1.5533 88.1m
+step 40200 loss 1.4909 88.1m
+val step 40200 loss 1.6310
+step 40220 loss 1.5533 88.2m
+step 40240 loss 1.4911 88.2m
+step 40260 loss 1.5533 88.3m
+step 40280 loss 1.4909 88.3m
+step 40300 loss 1.5532 88.4m
+step 40320 loss 1.4907 88.4m
+step 40340 loss 1.5531 88.5m
+step 40360 loss 1.4907 88.5m
+step 40380 loss 1.5531 88.5m
+step 40400 loss 1.4908 88.6m
+val step 40400 loss 1.6361
+step 40420 loss 1.5532 88.6m
+step 40440 loss 1.4911 88.7m
+step 40460 loss 1.5533 88.7m
+step 40480 loss 1.4912 88.8m
+step 40500 loss 1.5532 88.8m
+step 40520 loss 1.4911 88.9m
+step 40540 loss 1.5531 88.9m
+step 40560 loss 1.4911 88.9m
+step 40580 loss 1.5531 89.0m
+step 40600 loss 1.4911 89.0m
+val step 40600 loss 1.6341
+step 40620 loss 1.5531 89.1m
+step 40640 loss 1.4912 89.1m
+step 40660 loss 1.5531 89.2m
+step 40680 loss 1.4912 89.2m
+step 40700 loss 1.5531 89.3m
+step 40720 loss 1.4913 89.3m
+step 40740 loss 1.5531 89.3m
+step 40760 loss 1.4913 89.4m
+step 40780 loss 1.5531 89.4m
+step 40800 loss 1.4913 89.5m
+val step 40800 loss 1.6356
+step 40820 loss 1.5531 89.5m
+step 40840 loss 1.4913 89.6m
+step 40860 loss 1.5531 89.6m
+step 40880 loss 1.4913 89.7m
+step 40900 loss 1.5531 89.7m
+step 40920 loss 1.4914 89.7m
+step 40940 loss 1.5531 89.8m
+step 40960 loss 1.4913 89.8m
+step 40980 loss 1.5531 89.9m
+step 41000 loss 1.4913 89.9m
+val step 41000 loss 1.6357
+step 41020 loss 1.5531 90.0m
+step 41040 loss 1.4913 90.0m
+step 41060 loss 1.5531 90.1m
+step 41080 loss 1.4913 90.1m
+step 41100 loss 1.5531 90.1m
+step 41120 loss 1.4913 90.2m
+step 41140 loss 1.5531 90.2m
+step 41160 loss 1.4912 90.3m
+step 41180 loss 1.5531 90.3m
+step 41200 loss 1.4912 90.4m
+val step 41200 loss 1.6359
+step 41220 loss 1.5531 90.4m
+step 41240 loss 1.4911 90.4m
+step 41260 loss 1.5531 90.5m
+step 41280 loss 1.4910 90.5m
+step 41300 loss 1.5531 90.6m
+step 41320 loss 1.4910 90.6m
+step 41340 loss 1.5531 90.7m
+step 41360 loss 1.4909 90.7m
+step 41380 loss 1.5531 90.8m
+step 41400 loss 1.4908 90.8m
+val step 41400 loss 1.6360
+step 41420 loss 1.5530 90.8m
+step 41440 loss 1.4907 90.9m
+step 41460 loss 1.5530 90.9m
+step 41480 loss 1.4906 91.0m
+step 41500 loss 1.5530 91.0m
+step 41520 loss 1.4905 91.1m
+step 41540 loss 1.5530 91.1m
+step 41560 loss 1.4904 91.2m
+step 41580 loss 1.5530 91.2m
+step 41600 loss 1.4903 91.2m
+val step 41600 loss 1.6362
+step 41620 loss 1.5530 91.3m
+step 41640 loss 1.4902 91.3m
+step 41660 loss 1.5530 91.4m
+step 41680 loss 1.4901 91.4m
+step 41700 loss 1.5530 91.5m
+step 41720 loss 1.4899 91.5m
+step 41740 loss 1.5530 91.6m
+step 41760 loss 1.4898 91.6m
+step 41780 loss 1.5530 91.6m
+step 41800 loss 1.4897 91.7m
+val step 41800 loss 1.6366
+step 41820 loss 1.5530 91.7m
+step 41840 loss 1.4896 91.8m
+step 41860 loss 1.5530 91.8m
+step 41880 loss 1.4895 91.9m
+step 41900 loss 1.5530 91.9m
+step 41920 loss 1.4894 92.0m
+step 41940 loss 1.5530 92.0m
+step 41960 loss 1.4891 92.0m
+step 41980 loss 1.5533 92.1m
+step 42000 loss 1.4875 92.1m
+val step 42000 loss 1.6415
+step 42020 loss 1.5536 92.2m
+step 42040 loss 1.4865 92.2m
+step 42060 loss 1.5534 92.3m
+step 42080 loss 1.4876 92.3m
+step 42100 loss 1.5534 92.3m
+step 42120 loss 1.4901 92.4m
+step 42140 loss 1.5535 92.4m
+step 42160 loss 1.4923 92.5m
+step 42180 loss 1.5545 92.5m
+step 42200 loss 1.4918 92.6m
+val step 42200 loss 1.6267
+step 42220 loss 1.5547 92.6m
+step 42240 loss 1.4910 92.7m
+step 42260 loss 1.5549 92.7m
+step 42280 loss 1.4915 92.7m
+step 42300 loss 1.5546 92.8m
+step 42320 loss 1.4940 92.8m
+step 42340 loss 1.5551 92.9m
+step 42360 loss 1.4902 92.9m
+step 42380 loss 1.5538 93.0m
+step 42400 loss 1.4899 93.0m
+val step 42400 loss 1.6181
+step 42420 loss 1.5546 93.1m
+step 42440 loss 1.4901 93.1m
+step 42460 loss 1.5540 93.1m
+step 42480 loss 1.4912 93.2m
+step 42500 loss 1.5548 93.2m
+step 42520 loss 1.4930 93.3m
+step 42540 loss 1.5570 93.3m
+step 42560 loss 1.4912 93.4m
+step 42580 loss 1.5547 93.4m
+step 42600 loss 1.4919 93.4m
+val step 42600 loss 1.6329
+step 42620 loss 1.5545 93.5m
+step 42640 loss 1.4904 93.5m
+step 42660 loss 1.5538 93.6m
+step 42680 loss 1.4911 93.6m
+step 42700 loss 1.5534 93.7m
+step 42720 loss 1.4902 93.7m
+step 42740 loss 1.5532 93.8m
+step 42760 loss 1.4902 93.8m
+step 42780 loss 1.5532 93.8m
+step 42800 loss 1.4906 93.9m
+val step 42800 loss 1.6322
+step 42820 loss 1.5532 93.9m
+step 42840 loss 1.4908 94.0m
+step 42860 loss 1.5532 94.0m
+step 42880 loss 1.4906 94.1m
+step 42900 loss 1.5532 94.1m
+step 42920 loss 1.4905 94.2m
+step 42940 loss 1.5532 94.2m
+step 42960 loss 1.4907 94.2m
+step 42980 loss 1.5531 94.3m
+step 43000 loss 1.4907 94.3m
+val step 43000 loss 1.6303
+step 43020 loss 1.5531 94.4m
+step 43040 loss 1.4908 94.4m
+step 43060 loss 1.5531 94.5m
+step 43080 loss 1.4910 94.5m
+step 43100 loss 1.5531 94.6m
+step 43120 loss 1.4910 94.6m
+step 43140 loss 1.5531 94.6m
+step 43160 loss 1.4911 94.7m
+step 43180 loss 1.5531 94.7m
+step 43200 loss 1.4911 94.8m
+val step 43200 loss 1.6323
+step 43220 loss 1.5531 94.8m
+step 43240 loss 1.4911 94.9m
+step 43260 loss 1.5531 94.9m
+step 43280 loss 1.4912 95.0m
+step 43300 loss 1.5531 95.0m
+step 43320 loss 1.4912 95.0m
+step 43340 loss 1.5531 95.1m
+step 43360 loss 1.4913 95.1m
+step 43380 loss 1.5531 95.2m
+step 43400 loss 1.4913 95.2m
+val step 43400 loss 1.6324
+step 43420 loss 1.5531 95.3m
+step 43440 loss 1.4913 95.3m
+step 43460 loss 1.5531 95.3m
+step 43480 loss 1.4914 95.4m
+step 43500 loss 1.5531 95.4m
+step 43520 loss 1.4914 95.5m
+step 43540 loss 1.5531 95.5m
+step 43560 loss 1.4914 95.6m
+step 43580 loss 1.5531 95.6m
+step 43600 loss 1.4914 95.7m
+val step 43600 loss 1.6325
+step 43620 loss 1.5531 95.7m
+step 43640 loss 1.4914 95.7m
+step 43660 loss 1.5531 95.8m
+step 43680 loss 1.4913 95.8m
+step 43700 loss 1.5531 95.9m
+step 43720 loss 1.4913 95.9m
+step 43740 loss 1.5531 96.0m
+step 43760 loss 1.4913 96.0m
+step 43780 loss 1.5531 96.1m
+step 43800 loss 1.4912 96.1m
+val step 43800 loss 1.6325
+step 43820 loss 1.5531 96.1m
+step 43840 loss 1.4912 96.2m
+step 43860 loss 1.5531 96.2m
+step 43880 loss 1.4911 96.3m
+step 43900 loss 1.5531 96.3m
+step 43920 loss 1.4911 96.4m
+step 43940 loss 1.5531 96.4m
+step 43960 loss 1.4910 96.5m
+step 43980 loss 1.5531 96.5m
+step 44000 loss 1.4909 96.5m
+val step 44000 loss 1.6324
+step 44020 loss 1.5531 96.6m
+step 44040 loss 1.4908 96.6m
+step 44060 loss 1.5531 96.7m
+step 44080 loss 1.4907 96.7m
+step 44100 loss 1.5531 96.8m
+step 44120 loss 1.4906 96.8m
+step 44140 loss 1.5531 96.8m
+step 44160 loss 1.4905 96.9m
+step 44180 loss 1.5530 96.9m
+step 44200 loss 1.4904 97.0m
+val step 44200 loss 1.6325
+step 44220 loss 1.5530 97.0m
+step 44240 loss 1.4903 97.1m
+step 44260 loss 1.5530 97.1m
+step 44280 loss 1.4902 97.2m
+step 44300 loss 1.5530 97.2m
+step 44320 loss 1.4901 97.2m
+step 44340 loss 1.5530 97.3m
+step 44360 loss 1.4900 97.3m
+step 44380 loss 1.5530 97.4m
+step 44400 loss 1.4899 97.4m
+val step 44400 loss 1.6325
+step 44420 loss 1.5530 97.5m
+step 44440 loss 1.4898 97.5m
+step 44460 loss 1.5530 97.6m
+step 44480 loss 1.4897 97.6m
+step 44500 loss 1.5530 97.6m
+step 44520 loss 1.4896 97.7m
+step 44540 loss 1.5530 97.7m
+step 44560 loss 1.4895 97.8m
+step 44580 loss 1.5530 97.8m
+step 44600 loss 1.4894 97.9m
+val step 44600 loss 1.6327
+step 44620 loss 1.5530 97.9m
+step 44640 loss 1.4893 97.9m
+step 44660 loss 1.5531 98.0m
+step 44680 loss 1.4884 98.0m
+step 44700 loss 1.5533 98.1m
+step 44720 loss 1.4867 98.1m
+step 44740 loss 1.5535 98.2m
+step 44760 loss 1.4854 98.2m
+step 44780 loss 1.5534 98.3m
+step 44800 loss 1.4869 98.3m
+val step 44800 loss 1.6283
+step 44820 loss 1.5531 98.3m
+step 44840 loss 1.4883 98.4m
+step 44860 loss 1.5532 98.4m
+step 44880 loss 1.4892 98.5m
+step 44900 loss 1.5534 98.5m
+step 44920 loss 1.4902 98.6m
+step 44940 loss 1.5546 98.6m
+step 44960 loss 1.4940 98.6m
+step 44980 loss 1.5549 98.7m
+step 45000 loss 1.4911 98.7m
+val step 45000 loss 1.6163
+step 45020 loss 1.5549 98.8m
+step 45040 loss 1.4942 98.8m
+step 45060 loss 1.5563 98.9m
+step 45080 loss 1.4935 98.9m
+step 45100 loss 1.5548 99.0m
+step 45120 loss 1.4944 99.0m
+step 45140 loss 1.5541 99.0m
+step 45160 loss 1.4929 99.1m
+step 45180 loss 1.5540 99.1m
+step 45200 loss 1.4915 99.2m
+val step 45200 loss 1.6311
+step 45220 loss 1.5539 99.2m
+step 45240 loss 1.4903 99.3m
+step 45260 loss 1.5533 99.3m
+step 45280 loss 1.4902 99.3m
+step 45300 loss 1.5533 99.4m
+step 45320 loss 1.4903 99.4m
+step 45340 loss 1.5535 99.5m
+step 45360 loss 1.4902 99.5m
+step 45380 loss 1.5532 99.6m
+step 45400 loss 1.4904 99.6m
+val step 45400 loss 1.6346
+step 45420 loss 1.5532 99.7m
+step 45440 loss 1.4907 99.7m
+step 45460 loss 1.5532 99.7m
+step 45480 loss 1.4907 99.8m
+step 45500 loss 1.5532 99.8m
+step 45520 loss 1.4905 99.9m
+step 45540 loss 1.5532 99.9m
+step 45560 loss 1.4906 100.0m
+step 45580 loss 1.5533 100.0m
+step 45600 loss 1.4909 100.0m
+val step 45600 loss 1.6283
+step 45620 loss 1.5532 100.1m
+step 45640 loss 1.4909 100.1m
+step 45660 loss 1.5531 100.2m
+step 45680 loss 1.4908 100.2m
+step 45700 loss 1.5531 100.3m
+step 45720 loss 1.4909 100.3m
+step 45740 loss 1.5532 100.4m
+step 45760 loss 1.4911 100.4m
+step 45780 loss 1.5533 100.4m
+step 45800 loss 1.4912 100.5m
+val step 45800 loss 1.6358
+step 45820 loss 1.5532 100.5m
+step 45840 loss 1.4911 100.6m
+step 45860 loss 1.5531 100.6m
+step 45880 loss 1.4911 100.7m
+step 45900 loss 1.5531 100.7m
+step 45920 loss 1.4912 100.8m
+step 45940 loss 1.5531 100.8m
+step 45960 loss 1.4912 100.8m
+step 45980 loss 1.5531 100.9m
+step 46000 loss 1.4913 100.9m
+val step 46000 loss 1.6325
+step 46020 loss 1.5531 101.0m
+step 46040 loss 1.4913 101.0m
+step 46060 loss 1.5531 101.1m
+step 46080 loss 1.4913 101.1m
+step 46100 loss 1.5531 101.1m
+step 46120 loss 1.4913 101.2m
+step 46140 loss 1.5531 101.2m
+step 46160 loss 1.4913 101.3m
+step 46180 loss 1.5531 101.3m
+step 46200 loss 1.4913 101.4m
+val step 46200 loss 1.6328
+step 46220 loss 1.5531 101.4m
+step 46240 loss 1.4913 101.5m
+step 46260 loss 1.5531 101.5m
+step 46280 loss 1.4913 101.5m
+step 46300 loss 1.5531 101.6m
+step 46320 loss 1.4913 101.6m
+step 46340 loss 1.5531 101.7m
+step 46360 loss 1.4913 101.7m
+step 46380 loss 1.5531 101.8m
+step 46400 loss 1.4913 101.8m
+val step 46400 loss 1.6329
+step 46420 loss 1.5531 101.9m
+step 46440 loss 1.4912 101.9m
+step 46460 loss 1.5531 101.9m
+step 46480 loss 1.4912 102.0m
+step 46500 loss 1.5531 102.0m
+step 46520 loss 1.4911 102.1m
+step 46540 loss 1.5531 102.1m
+step 46560 loss 1.4911 102.2m
+step 46580 loss 1.5531 102.2m
+step 46600 loss 1.4910 102.2m
+val step 46600 loss 1.6328
+step 46620 loss 1.5531 102.3m
+step 46640 loss 1.4909 102.3m
+step 46660 loss 1.5530 102.4m
+step 46680 loss 1.4908 102.4m
+step 46700 loss 1.5530 102.5m
+step 46720 loss 1.4907 102.5m
+step 46740 loss 1.5530 102.6m
+step 46760 loss 1.4906 102.6m
+step 46780 loss 1.5530 102.6m
+step 46800 loss 1.4905 102.7m
+val step 46800 loss 1.6328
+step 46820 loss 1.5530 102.7m
+step 46840 loss 1.4904 102.8m
+step 46860 loss 1.5530 102.8m
+step 46880 loss 1.4903 102.9m
+/kaggle/working/mc/envs/ESAM/lib/python3.8/site-packages/mmdet3d/evaluation/functional/kitti_utils/eval.py:10: NumbaDeprecationWarning: [1mThe 'nopython' keyword argument was not supplied to the 'numba.jit' decorator. The implicit default value for this argument is currently False, but it will be changed to True in Numba 0.59.0. See https://numba.readthedocs.io/en/stable/reference/deprecation.html#deprecation-of-object-mode-fall-back-behaviour-when-using-jit for details.[0m
+  def get_thresholds(scores: np.ndarray, num_gt, num_sample_pts=41):
+step 46900 loss 1.5530 102.9m
+step 46920 loss 1.4902 102.9m
+step 46940 loss 1.5530 103.0m
+step 46960 loss 1.4901 103.0m
+step 46980 loss 1.5530 103.1m
+step 47000 loss 1.4900 103.1m
+val step 47000 loss 1.6327
+step 47020 loss 1.5530 103.2m
+step 47040 loss 1.4899 103.2m
+step 47060 loss 1.5530 103.3m
+step 47080 loss 1.4898 103.3m
+step 47100 loss 1.5530 103.3m
+step 47120 loss 1.4897 103.4m
+step 47140 loss 1.5530 103.4m
+step 47160 loss 1.4896 103.5m
+step 47180 loss 1.5530 103.5m
+step 47200 loss 1.4895 103.6m
+val step 47200 loss 1.6319
+step 47220 loss 1.5530 103.6m
+step 47240 loss 1.4894 103.7m
+step 47260 loss 1.5530 103.7m
+step 47280 loss 1.4892 103.7m
+step 47300 loss 1.5531 103.8m
+step 47320 loss 1.4872 103.8m
+step 47340 loss 1.5552 103.9m
+step 47360 loss 1.4835 103.9m
+step 47380 loss 1.5546 104.0m
+step 47400 loss 1.4866 104.0m
+val step 47400 loss 1.6442
+step 47420 loss 1.5533 104.0m
+step 47440 loss 1.4887 104.1m
+step 47460 loss 1.5543 104.1m
+step 47480 loss 1.4897 104.2m
+step 47500 loss 1.5543 104.2m
+step 47520 loss 1.4898 104.3m
+step 47540 loss 1.5549 104.3m
+step 47560 loss 1.4919 104.3m
+step 47580 loss 1.5556 104.4m
+step 47600 loss 1.5002 104.4m
+val step 47600 loss 1.6511
+step 47620 loss 1.5550 104.5m
+step 47640 loss 1.4926 104.5m
+step 47660 loss 1.5548 104.6m
+step 47680 loss 1.4927 104.6m
+step 47700 loss 1.5547 104.7m
+step 47720 loss 1.4914 104.7m
+step 47740 loss 1.5547 104.7m
+step 47760 loss 1.4910 104.8m
+step 47780 loss 1.5539 104.8m
+step 47800 loss 1.4904 104.9m
+val step 47800 loss 1.6120
+step 47820 loss 1.5537 104.9m
+step 47840 loss 1.4903 105.0m
+step 47860 loss 1.5535 105.0m
+step 47880 loss 1.4904 105.1m
+step 47900 loss 1.5533 105.1m
+step 47920 loss 1.4901 105.1m
+step 47940 loss 1.5533 105.2m
+step 47960 loss 1.4901 105.2m
+step 47980 loss 1.5532 105.3m
+step 48000 loss 1.4904 105.3m
+val step 48000 loss 1.6170
+step 48020 loss 1.5532 105.4m
+step 48040 loss 1.4908 105.4m
+step 48060 loss 1.5532 105.4m
+step 48080 loss 1.4908 105.5m
+step 48100 loss 1.5532 105.5m
+step 48120 loss 1.4905 105.6m
+step 48140 loss 1.5533 105.6m
+step 48160 loss 1.4906 105.7m
+step 48180 loss 1.5533 105.7m
+step 48200 loss 1.4908 105.8m
+val step 48200 loss 1.6133
+step 48220 loss 1.5533 105.8m
+step 48240 loss 1.4908 105.8m
+step 48260 loss 1.5531 105.9m
+step 48280 loss 1.4908 105.9m
+step 48300 loss 1.5531 106.0m
+step 48320 loss 1.4908 106.0m
+step 48340 loss 1.5532 106.1m
+step 48360 loss 1.4910 106.1m
+step 48380 loss 1.5532 106.1m
+step 48400 loss 1.4911 106.2m
+val step 48400 loss 1.6213
+step 48420 loss 1.5532 106.2m
+step 48440 loss 1.4911 106.3m
+step 48460 loss 1.5531 106.3m
+step 48480 loss 1.4912 106.4m
+step 48500 loss 1.5531 106.4m
+step 48520 loss 1.4912 106.5m
+step 48540 loss 1.5531 106.5m
+step 48560 loss 1.4912 106.5m
+step 48580 loss 1.5531 106.6m
+step 48600 loss 1.4913 106.6m
+val step 48600 loss 1.6183
+step 48620 loss 1.5531 106.7m
+step 48640 loss 1.4913 106.7m
+step 48660 loss 1.5531 106.8m
+step 48680 loss 1.4913 106.8m
+step 48700 loss 1.5531 106.9m
+step 48720 loss 1.4914 106.9m
+step 48740 loss 1.5531 106.9m
+step 48760 loss 1.4914 107.0m
+step 48780 loss 1.5531 107.0m
+step 48800 loss 1.4914 107.1m
+val step 48800 loss 1.6186
+step 48820 loss 1.5531 107.1m
+step 48840 loss 1.4914 107.2m
+step 48860 loss 1.5531 107.2m
+step 48880 loss 1.4914 107.2m
+step 48900 loss 1.5531 107.3m
+step 48920 loss 1.4914 107.3m
+step 48940 loss 1.5531 107.4m
+step 48960 loss 1.4914 107.4m
+step 48980 loss 1.5531 107.5m
+step 49000 loss 1.4913 107.5m
+val step 49000 loss 1.6187
+step 49020 loss 1.5531 107.6m
+step 49040 loss 1.4913 107.6m
+step 49060 loss 1.5531 107.6m
+step 49080 loss 1.4913 107.7m
+step 49100 loss 1.5531 107.7m
+step 49120 loss 1.4912 107.8m
+step 49140 loss 1.5531 107.8m
+step 49160 loss 1.4912 107.9m
+step 49180 loss 1.5531 107.9m
+step 49200 loss 1.4911 107.9m
+val step 49200 loss 1.6186
+step 49220 loss 1.5531 108.0m
+step 49240 loss 1.4910 108.0m
+step 49260 loss 1.5531 108.1m
+step 49280 loss 1.4910 108.1m
+step 49300 loss 1.5531 108.2m
+step 49320 loss 1.4909 108.2m
+step 49340 loss 1.5531 108.3m
+step 49360 loss 1.4908 108.3m
+step 49380 loss 1.5531 108.3m
+step 49400 loss 1.4907 108.4m
+val step 49400 loss 1.6187
+step 49420 loss 1.5531 108.4m
+step 49440 loss 1.4906 108.5m
+step 49460 loss 1.5530 108.5m
+step 49480 loss 1.4905 108.6m
+step 49500 loss 1.5530 108.6m
+step 49520 loss 1.4904 108.7m
+step 49540 loss 1.5530 108.7m
+step 49560 loss 1.4903 108.7m
+step 49580 loss 1.5530 108.8m
+step 49600 loss 1.4902 108.8m
+val step 49600 loss 1.6189
+step 49620 loss 1.5530 108.9m
+step 49640 loss 1.4901 108.9m
+step 49660 loss 1.5530 109.0m
+step 49680 loss 1.4900 109.0m
+step 49700 loss 1.5530 109.0m
+step 49720 loss 1.4899 109.1m
+step 49740 loss 1.5530 109.1m
+step 49760 loss 1.4898 109.2m
+step 49780 loss 1.5530 109.2m
+step 49800 loss 1.4897 109.3m
+val step 49800 loss 1.6192
+step 49820 loss 1.5530 109.3m
+step 49840 loss 1.4896 109.3m
+step 49860 loss 1.5530 109.4m
+step 49880 loss 1.4895 109.4m
+step 49900 loss 1.5530 109.5m
+step 49920 loss 1.4895 109.5m
+step 49940 loss 1.5531 109.6m
+step 49960 loss 1.4893 109.6m
+step 49980 loss 1.5531 109.7m
+step 50000 loss 1.4889 109.7m
+val step 50000 loss 1.6186
+step 50020 loss 1.5536 109.7m
+step 50040 loss 1.4856 109.8m
+step 50060 loss 1.5550 109.8m
+step 50080 loss 1.4858 109.9m
+step 50100 loss 1.5538 109.9m
+step 50120 loss 1.4865 110.0m
+student AP (val): {'AP': 0.0, 'AP50': 0.0, 'AP25': 0.0, 'num_pred': 0, 'num_gt': 267, 'frames': 40}
+total 206M
+-rw-r--r-- 1 root root 181K Nov 12 20:42 distill_metrics.json
+-rw-r--r-- 1 root root   95 Nov 12 20:42 student_ap.json
+-rw-r--r-- 1 root root  95M Nov 12 18:53 student_best.pth
+-rw-r--r-- 1 root root  95M Nov 12 20:42 student_last.pth
+-rw-r--r-- 1 root root 374K Nov 12 20:42 student_preview.png
+-rw-r--r-- 1 root root  12M Nov 12 20:42 student_val.ply
+-rw-r--r-- 1 root root 5.6M Nov 12 20:42 student_val_voxel02.ply
+================ FINAL STATUS ================
+
+--- /kaggle/working/distill/teacher/teacher_metrics.json ---
+{
+  "frames": 80,
+  "elapsed_sec": 25.437796115875244,
+  "teacher_ap_val": {
+    "AP": 0.03201509867846464,
+    "AP50": 0.054653140304581016,
+    "AP25": 0.07298618344957553,
+    "frames": 40
+  },
+  "teacher_ap_all": {
+    "AP": 0.06819036590286946,
+    "AP50": 0.11108569458282855,
+    "AP25": 0.1447692835911008,
+    "frames": 80
+  },
+  "gate": {
+    "ok": true,
+    "frames": 80,
+    "median_instances": 9.0,
+    "median_max_mask_fraction": 0.574675
+  },
+  "frame_stats": [
+    {
+      "index": 0,
+      "frame_id": 1,
+      "instances": 10,
+      "max_mask_points": 8946
+    },
+    {
+      "index": 1,
+      "frame_id": 41,
+      "instances": 11,
+      "max_mask_points": 11734
+    },
+    {
+      "index": 2,
+      "frame_id": 81,
+      "instances": 9,
+      "max_mask_points": 17535
+    },
+    {
+      "index": 3,
+      "frame_id": 121,
+      "instances": 5,
+      "max_mask_points": 13367
+    },
+    {
+      "index": 4,
+      "frame_id": 161,
+      "instances": 4,
+      "max_mask_points": 11516
+    },
+    {
+      "index": 5,
+      "frame_id": 201,
+      "instances": 6,
+      "max_mask_points": 11247
+    },
+    {
+      "index": 6,
+      "frame_id": 241,
+      "instances": 6,
+      "max_mask_points": 11471
+    },
+    {
+      "index": 7,
+      "frame_id": 281,
+      "instances": 4,
+      "max_mask_points": 13246
+    },
+    {
+      "index": 8,
+      "frame_id": 321,
+      "instances": 8,
+      "max_mask_points": 12402
+    },
+    {
+      "index": 9,
+      "frame_id": 361,
+      "instances": 7,
+      "max_mask_points": 8440
+    },
+    {
+      "index": 10,
+      "frame_id": 401,
+      "instances": 8,
+      "max_mask_points": 13886
+    },
+    {
+      "index": 11,
+      "frame_id": 441,
+      "instances": 9,
+      "max_mask_points": 10971
+    },
+    {
+      "index": 12,
+      "frame_id": 481,
+      "instances": 6,
+      "max_mask_points": 10126
+    },
+    {
+      "index": 13,
+      "frame_id": 521,
+      "instances": 7,
+      "max_mask_points": 11308
+    },
+    {
+      "index": 14,
+      "frame_id": 561,
+      "instances": 11,
+      "max_mask_points": 11629
+    },
+    {
+      "index": 15,
+      "frame_id": 601,
+      "instances": 7,
+      "max_mask_points": 10230
+    },
+    {
+      "index": 16,
+      "frame_id": 641,
+      "instances": 10,
+      "max_mask_points": 13892
+    },
+    {
+      "index": 17,
+      "frame_id": 681,
+      "instances": 7,
+      "max_mask_points": 9264
+    },
+    {
+      "index": 18,
+      "frame_id": 721,
+      "instances": 8,
+      "max_mask_points": 14126
+    },
+    {
+      "index": 19,
+      "frame_id": 761,
+      "instances": 9,
+      "max_mask_points": 12368
+    },
+    {
+      "index": 20,
+      "frame_id": 801,
+      "instances": 12,
+      "max_mask_points": 12806
+    },
+    {
+      "index": 21,
+      "frame_id": 841,
+      "instances": 12,
+      "max_mask_points": 9463
+    },
+    {
+      "index": 22,
+      "frame_id": 881,
+      "instances": 10,
+      "max_mask_points": 15625
+    },
+    {
+      "index": 23,
+      "frame_id": 921,
+      "instances": 12,
+      "max_mask_points": 7017
+    },
+    {
+      "index": 24,
+      "frame_id": 961,
+      "instances": 14,
+      "max_mask_points": 8143
+    },
+    {
+      "index": 25,
+      "frame_id": 1001,
+      "instances": 13,
+      "max_mask_points": 7901
+    },
+    {
+      "index": 26,
+      "frame_id": 1041,
+      "instances": 10,
+      "max_mask_points": 4128
+    },
+    {
+      "index": 27,
+      "frame_id": 1081,
+      "instances": 14,
+      "max_mask_points": 19291
+    },
+    {
+      "index": 28,
+      "frame_id": 1121,
+      "instances": 11,
+      "max_mask_points": 6203
+    },
+    {
+      "index": 29,
+      "frame_id": 1161,
+      "instances": 13,
+      "max_mask_points": 15595
+    },
+    {
+      "index": 30,
+      "frame_id": 1201,
+      "instances": 12,
+      "max_mask_points": 5532
+    },
+    {
+      "index": 31,
+      "frame_id": 1241,
+      "instances": 13,
+      "max_mask_points": 3998
+    },
+    {
+      "index": 32,
+      "frame_id": 1281,
+      "instances": 9,
+      "max_mask_points": 8604
+    },
+    {
+      "index": 33,
+      "frame_id": 1321,
+      "instances": 9,
+      "max_mask_points": 7987
+    },
+    {
+      "index": 34,
+      "frame_id": 1361,
+      "instances": 5,
+      "max_mask_points": 8736
+    },
+    {
+      "index": 35,
+      "frame_id": 1401,
+      "instances": 9,
+      "max_mask_points": 9305
+    },
+    {
+      "index": 36,
+      "frame_id": 1441,
+      "instances": 4,
+      "max_mask_points": 11136
+    },
+    {
+      "index": 37,
+      "frame_id": 1481,
+      "instances": 13,
+      "max_mask_points": 11907
+    },
+    {
+      "index": 38,
+      "frame_id": 1521,
+      "instances": 10,
+      "max_mask_points": 9787
+    },
+    {
+      "index": 39,
+      "frame_id": 1561,
+      "instances": 15,
+      "max_mask_points": 5956
+    },
+    {
+      "index": 40,
+      "frame_id": 1601,
+      "instances": 12,
+      "max_mask_points": 12320
+    },
+    {
+      "index": 41,
+      "frame_id": 1641,
+      "instances": 16,
+      "max_mask_po
+
+--- /kaggle/working/distill/student/distill_metrics.json ---
+{
+  "steps": 50139,
+  "train_minutes": 110.0689359943072,
+  "best_val_loss": 1.6056180238723754,
+  "student_ap": {
+    "AP": 0.0,
+    "AP50": 0.0,
+    "AP25": 0.0,
+    "num_pred": 0,
+    "num_gt": 267,
+    "frames": 40
+  },
+  "init_info": {
+    "matched": 103,
+    "total": 400
+  },
+  "history": [
+    {
+      "step": 20,
+      "loss": 1.5985721349716187
+    },
+    {
+      "step": 40,
+      "loss": 1.671592354774475
+    },
+    {
+      "step": 60,
+      "loss": 1.6025835275650024
+    },
+    {
+      "step": 80,
+      "loss": 1.7341580390930176
+    },
+    {
+      "step": 100,
+      "loss": 1.6177524328231812
+    },
+    {
+      "step": 120,
+      "loss": 1.6431430578231812
+    },
+    {
+      "step": 140,
+      "loss": 1.6258363723754883
+    },
+    {
+      "step": 160,
+      "loss": 1.6414411067962646
+    },
+    {
+      "step": 180,
+      "loss": 1.629429817199707
+    },
+    {
+      "step": 200,
+      "loss": 1.6155353784561157
+    },
+    {
+      "step": 200,
+      "val_loss": 1.6056180238723754
+    },
+    {
+      "step": 220,
+      "loss": 1.6029081344604492
+    },
+    {
+      "step": 240,
+      "loss": 1.5924631357192993
+    },
+    {
+      "step": 260,
+      "loss": 1.6211366653442383
+    },
+    {
+      "step": 280,
+      "loss": 1.5807416439056396
+    },
+    {
+      "step": 300,
+      "loss": 1.612082839012146
+    },
+    {
+      "step": 320,
+      "loss": 1.590318202972412
+    },
+    {
+      "step": 340,
+      "loss": 1.6000676155090332
+    },
+    {
+      "step": 360,
+      "loss": 1.5874907970428467
+    },
+    {
+      "step": 380,
+      "loss": 1.6054810285568237
+    },
+    {
+      "step": 400,
+      "loss": 1.5843007564544678
+    },
+    {
+      "step": 400,
+      "val_loss": 1.7169212579727173
+    },
+    {
+      "step": 420,
+      "loss": 1.6047911643981934
+    },
+    {
+      "step": 440,
+      "loss": 1.5780106782913208
+    },
+    {
+      "step": 460,
+      "loss": 1.5927388668060303
+    },
+    {
+      "step": 480,
+      "loss": 1.5967587232589722
+    },
+    {
+      "step": 500,
+      "loss": 1.5944361686706543
+    },
+    {
+      "step": 520,
+      "loss": 1.5879930257797241
+    },
+    {
+      "step": 540,
+      "loss": 1.5967309474945068
+    },
+    {
+      "step": 560,
+      "loss": 1.5826020240783691
+    },
+    {
+      "step": 580,
+      "loss": 1.590635895729065
+    },
+    {
+      "step": 600,
+      "loss": 1.5986671447753906
+    },
+    {
+      "step": 600,
+      "val_loss": 1.6776501417160035
+    },
+    {
+      "step": 620,
+      "loss": 1.5899560451507568
+    },
+    {
+      "step": 640,
+      "loss": 1.571252465248108
+    },
+    {
+      "step": 660,
+      "loss": 1.6069180965423584
+    },
+    {
+      "step": 680,
+      "loss": 1.5865010023117065
+    },
+    {
+      "step": 700,
+      "loss": 1.6181142330169678
+    },
+    {
+      "step": 720,
+      "loss": 1.5658948421478271
+    },
+    {
+      "step": 740,
+      "loss": 1.6159639358520508
+    },
+    {
+      "step": 760,
+      "loss": 1.5713478326797485
+    },
+    {
+      "step": 780,
+      "loss": 1.59230375289917
+    },
+    {
+      "step": 800,
+      "loss": 1.576185941696167
+    },
+    {
+      "step": 800,
+      "val_loss": 1.6748464822769165
+    },
+    {
+      "step": 820,
+      "loss": 1.5942186117172241
+    },
+    {
+      "step": 840,
+      "loss": 1.5734901428222656
+    },
+    {
+      "step": 860,
+      "loss": 1.5925496816635132
+    },
+    {
+      "step": 880,
+      "loss": 1.5664105415344238
+    },
+    {
+      "step": 900,
+      "loss": 1.5799012184143066
+    },
+    {
+      "step": 920,
+      "loss": 1.564449667930603
+    },
+    {
+      "step": 940,
+      "loss": 1.5755332708358765
+    },
+    {
+      "step": 960,
+      "loss": 1.569995641708374
+    },
+    {
+      "step": 980,
+      "loss": 1.5735969543457031
+    },
+    {
+      "step": 1000,
+      "loss": 1.5705586671829224
+    },
+    {
+      "step": 1000,
+      "val_loss": 1.643554401397705
+    },
+    {
+      "step": 1020,
+      "loss": 1.574067234992981
+    },
+    {
+      "step": 1040,
+      "loss": 1.5684386491775513
+    },
+    {
+      "step": 1060,
+      "loss": 1.5729857683181763
+    },
+    {
+      "step": 1080,
+      "loss": 1.5649417638778687
+    },
+    {
+      "step": 1100,
+      "loss": 1.5736382007598877
+    },
+    {
+      "step": 1120,
+      "loss": 1.5599554777145386
+    },
+    {
+      "step": 1140,
+      "loss": 1.5739240646362305
+    },
+    {
+      "step": 1160,
+      "loss": 1.5550986528396606
+    },
+    {
+      "step": 1180,
+      "loss": 1.5725878477096558
+    },
+    {
+      "step": 1200,
+      "loss": 1.5510900020599365
+    },
+    {
+      "step": 1200,
+      "val_loss": 1.6983314990997314
+    },
+    {
+      "step": 1220,
+      "loss": 1.5720484256744385
+    },
+    {
+      "step": 1240,
+      "loss": 1.5492955446243286
+    },
+    {
+      "step": 1260,
+      "loss": 1.5714986324310303
+    },
+    {
+      "step": 1280,
+      "loss": 1.5468934774398804
+    },
+    {
+      "step": 1300,
+      "loss": 1.5707125663757324
+    },
+    {
+      "step": 1320,
+      "loss": 1.5443896055221558
+   
+
+--- /kaggle/working/distill/student/student_ap.json ---
+{
+  "AP": 0.0,
+  "AP50": 0.0,
+  "AP25": 0.0,
+  "num_pred": 0,
+  "num_gt": 267,
+  "frames": 40
+}
+
+--- /kaggle/working/distill/student/student_init_ap.json ---
+MISSING
+    0.02 MB  distill/teacher/pseudo_0000.npz
+    0.02 MB  distill/teacher/pseudo_0001.npz
+    0.02 MB  distill/teacher/pseudo_0002.npz
+    0.01 MB  distill/teacher/pseudo_0003.npz
+    0.01 MB  distill/teacher/pseudo_0004.npz
+    0.01 MB  distill/teacher/pseudo_0005.npz
+    0.01 MB  distill/teacher/pseudo_0006.npz
+    0.01 MB  distill/teacher/pseudo_0007.npz
+    0.02 MB  distill/teacher/pseudo_0008.npz
+    0.02 MB  distill/teacher/pseudo_0009.npz
+    0.02 MB  distill/teacher/pseudo_0010.npz
+    0.02 MB  distill/teacher/pseudo_0011.npz
+    0.01 MB  distill/teacher/pseudo_0012.npz
+    0.02 MB  distill/teacher/pseudo_0013.npz
+    0.02 MB  distill/teacher/pseudo_0014.npz
+    0.02 MB  distill/teacher/pseudo_0015.npz
+    0.02 MB  distill/teacher/pseudo_0016.npz
+    0.02 MB  distill/teacher/pseudo_0017.npz
+    0.02 MB  distill/teacher/pseudo_0018.npz
+    0.01 MB  distill/teacher/pseudo_0019.npz
+    0.02 MB  distill/teacher/pseudo_0020.npz
+    0.02 MB  distill/teacher/pseudo_0021.npz
+    0.02 MB  distill/teacher/pseudo_0022.npz
+    0.02 MB  distill/teacher/pseudo_0023.npz
+    0.03 MB  distill/teacher/pseudo_0024.npz
+    0.02 MB  distill/teacher/pseudo_0025.npz
+    0.02 MB  distill/teacher/pseudo_0026.npz
+    0.02 MB  distill/teacher/pseudo_0027.npz
+    0.02 MB  distill/teacher/pseudo_0028.npz
+    0.03 MB  distill/teacher/pseudo_0029.npz
+    0.02 MB  distill/teacher/pseudo_0030.npz
+    0.02 MB  distill/teacher/pseudo_0031.npz
+    0.02 MB  distill/teacher/pseudo_0032.npz
+    0.02 MB  distill/teacher/pseudo_0033.npz
+    0.01 MB  distill/teacher/pseudo_0034.npz
+    0.02 MB  distill/teacher/pseudo_0035.npz
+    0.01 MB  distill/teacher/pseudo_0036.npz
+    0.02 MB  distill/teacher/pseudo_0037.npz
+    0.02 MB  distill/teacher/pseudo_0038.npz
+    0.02 MB  distill/teacher/pseudo_0039.npz
+    0.02 MB  distill/teacher/pseudo_0040.npz
+    0.02 MB  distill/teacher/pseudo_0041.npz
+    0.01 MB  distill/teacher/pseudo_0042.npz
+    0.01 MB  distill/teacher/pseudo_0043.npz
+    0.01 MB  distill/teacher/pseudo_0044.npz
+    0.01 MB  distill/teacher/pseudo_0045.npz
+    0.01 MB  distill/teacher/pseudo_0046.npz
+    0.01 MB  distill/teacher/pseudo_0047.npz
+    0.02 MB  distill/teacher/pseudo_0048.npz
+    0.01 MB  distill/teacher/pseudo_0049.npz
+    0.02 MB  distill/teacher/pseudo_0050.npz
+    0.01 MB  distill/teacher/pseudo_0051.npz
+    0.01 MB  distill/teacher/pseudo_0052.npz
+    0.01 MB  distill/teacher/pseudo_0053.npz
+    0.02 MB  distill/teacher/pseudo_0054.npz
+    0.02 MB  distill/teacher/pseudo_0055.npz
+    0.01 MB  distill/teacher/pseudo_0056.npz
+    0.02 MB  distill/teacher/pseudo_0057.npz
+    0.02 MB  distill/teacher/pseudo_0058.npz
+    0.01 MB  distill/teacher/pseudo_0059.npz
+    0.02 MB  distill/teacher/pseudo_0060.npz
+    0.02 MB  distill/teacher/pseudo_0061.npz
+    0.01 MB  distill/teacher/pseudo_0062.npz
+    0.01 MB  distill/teacher/pseudo_0063.npz
+    0.01 MB  distill/teacher/pseudo_0064.npz
+    0.01 MB  distill/teacher/pseudo_0065.npz
+    0.02 MB  distill/teacher/pseudo_0066.npz
+    0.02 MB  distill/teacher/pseudo_0067.npz
+    0.01 MB  distill/teacher/pseudo_0068.npz
+    0.01 MB  distill/teacher/pseudo_0069.npz
+    0.01 MB  distill/teacher/pseudo_0070.npz
+    0.01 MB  distill/teacher/pseudo_0071.npz
+    0.00 MB  distill/teacher/pseudo_0072.npz
+    0.01 MB  distill/teacher/pseudo_0073.npz
+    0.01 MB  distill/teacher/pseudo_0074.npz
+    0.01 MB  distill/teacher/pseudo_0075.npz
+    0.02 MB  distill/teacher/pseudo_0076.npz
+    0.01 MB  distill/teacher/pseudo_0077.npz
+    0.01 MB  distill/teacher/pseudo_0078.npz
+    0.01 MB  distill/teacher/pseudo_0079.npz
+   18.49 MB  distill/teacher/teacher_final.npz
+    0.01 MB  distill/teacher/teacher_metrics.json
+    0.43 MB  distill/teacher/teacher_preview_0000.png
+    0.43 MB  distill/teacher/teacher_preview_0001.png
+    0.25 MB  distill/teacher/teacher_preview_0002.png
+    0.40 MB  distill/teacher/teacher_preview_0003.png
+    0.40 MB  distill/frames/frame_0000.npz
+    0.40 MB  distill/frames/frame_0001.npz
+    0.42 MB  distill/frames/frame_0002.npz
+    0.42 MB  distill/frames/frame_0003.npz
+    0.42 MB  distill/frames/frame_0004.npz
+    0.42 MB  distill/frames/frame_0005.npz
+    0.42 MB  distill/frames/frame_0006.npz
+    0.43 MB  distill/frames/frame_0007.npz
+    0.42 MB  distill/frames/frame_0008.npz
+    0.42 MB  distill/frames/frame_0009.npz
+    0.42 MB  distill/frames/frame_0010.npz
+    0.42 MB  distill/frames/frame_0011.npz
+    0.42 MB  distill/frames/frame_0012.npz
+    0.42 MB  distill/frames/frame_0013.npz
+    0.42 MB  distill/frames/frame_0014.npz
+    0.42 MB  distill/frames/frame_0015.npz
+    0.42 MB  distill/frames/frame_0016.npz
+    0.42 MB  distill/frames/frame_0017.npz
+    0.42 MB  distill/frames/frame_0018.npz
+    0.42 MB  distill/frames/frame_0019.npz
+    0.42 MB  distill/frames/frame_0020.npz
+    0.42 MB  distill/frames/frame_0021.npz
+    0.43 MB  distill/frames/frame_0022.npz
+    0.43 MB  distill/frames/frame_0023.npz
+    0.42 MB  distill/frames/frame_0024.npz
+    0.42 MB  distill/frames/frame_0025.npz
+    0.42 MB  distill/frames/frame_0026.npz
+    0.42 MB  distill/frames/frame_0027.npz
+    0.42 MB  distill/frames/frame_0028.npz
+    0.42 MB  distill/frames/frame_0029.npz
+    0.42 MB  distill/frames/frame_0030.npz
+    0.43 MB  distill/frames/frame_0031.npz
+    0.43 MB  distill/frames/frame_0032.npz
+    0.43 MB  distill/frames/frame_0033.npz
+    0.43 MB  distill/frames/frame_0034.npz
+    0.42 MB  distill/frames/frame_0035.npz
+    0.41 MB  distill/frames/frame_0036.npz
+    0.42 MB  distill/frames/frame_0037.npz
+    0.42 MB  distill/frames/frame_0038.npz
+    0.41 MB  distill/frames/frame_0039.npz
+    0.42 MB  distill/frames/frame_0040.npz
+    0.43 MB  distill/frames/frame_0041.npz
+    0.42 MB  distill/frames/frame_0042.npz
+    0.42 MB  distill/frames/frame_0043.npz
+    0.42 MB  distill/frames/frame_0044.npz
+    0.42 MB  distill/frames/frame_0045.npz
+    0.42 MB  distill/frames/frame_0046.npz
+    0.42 MB  distill/frames/frame_0047.npz
+    0.42 MB  distill/frames/frame_0048.npz
+    0.42 MB  distill/frames/frame_0049.npz
+    0.42 MB  distill/frames/frame_0050.npz
+    0.42 MB  distill/frames/frame_0051.npz
+    0.42 MB  distill/frames/frame_0052.npz
+    0.42 MB  distill/frames/frame_0053.npz
+    0.42 MB  distill/frames/frame_0054.npz
+    0.42 MB  distill/frames/frame_0055.npz
+    0.42 MB  distill/frames/frame_0056.npz
+    0.42 MB  distill/frames/frame_0057.npz
+    0.42 MB  distill/frames/frame_0058.npz
+    0.42 MB  distill/frames/frame_0059.npz
+    0.41 MB  distill/frames/frame_0060.npz
+    0.41 MB  distill/frames/frame_0061.npz
+    0.40 MB  distill/frames/frame_0062.npz
+    0.40 MB  distill/frames/frame_0063.npz
+    0.41 MB  distill/frames/frame_0064.npz
+    0.41 MB  distill/frames/frame_0065.npz
+    0.41 MB  distill/frames/frame_0066.npz
+    0.41 MB  distill/frames/frame_0067.npz
+    0.42 MB  distill/frames/frame_0068.npz
+    0.41 MB  distill/frames/frame_0069.npz
+    0.42 MB  distill/frames/frame_0070.npz
+    0.42 MB  distill/frames/frame_0071.npz
+    0.42 MB  distill/frames/frame_0072.npz
+    0.41 MB  distill/frames/frame_0073.npz
+    0.41 MB  distill/frames/frame_0074.npz
+    0.41 MB  distill/frames/frame_0075.npz
+    0.41 MB  distill/frames/frame_0076.npz
+    0.40 MB  distill/frames/frame_0077.npz
+    0.40 MB  distill/frames/frame_0078.npz
+    0.40 MB  distill/frames/frame_0079.npz
+    0.00 MB  distill/frames/meta.json
+    0.18 MB  distill/student/distill_metrics.json
+    0.00 MB  distill/student/student_ap.json
+   98.64 MB  distill/student/student_best.pth
+   98.64 MB  distill/student/student_last.pth
+    0.38 MB  distill/student/student_preview.png
+   12.00 MB  distill/student/student_val.ply
+    5.82 MB  distill/student/student_val_voxel02.ply
+/dev/loop2       20G   13G  7.3G  63% /kaggle/working
+/usr/local/lib/python3.13/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\|'
+  cells[i][c] = re.sub('\\\\\|', '|', cell)
+/usr/local/lib/python3.13/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\_'
+  text = re.sub(r'_', '\_', text) # Escape underscores in display text
+[NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+[NbConvertApp] Writing 193717 bytes to __notebook__.ipynb
+[NbConvertApp] Converting notebook __notebook__.ipynb to html
+[NbConvertApp] Writing 447872 bytes to __results__.html

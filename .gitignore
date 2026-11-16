@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+upstream/
+*.pth
+outputs/checkpoints/
+.ipynb_checkpoints/
+kaggle.json
+*.env
+notebooks/data_exploration/tmp/
+notebooks/*/*_local.ipynb
+notebooks/*/*_executed.ipynb
+*.zip
+*.tar.*

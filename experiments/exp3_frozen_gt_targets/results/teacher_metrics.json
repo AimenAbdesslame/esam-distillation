@@ -1,0 +1,504 @@
+{
+  "frames": 80,
+  "elapsed_sec": 25.71379256248474,
+  "teacher_ap_val": {
+    "AP": 0.031938435070196336,
+    "AP50": 0.05450125237981266,
+    "AP25": 0.07286032710772071,
+    "frames": 40
+  },
+  "teacher_ap_all": {
+    "AP": 0.06815203409873531,
+    "AP50": 0.11100975062044435,
+    "AP25": 0.14470635542017338,
+    "frames": 80
+  },
+  "gate": {
+    "ok": true,
+    "frames": 80,
+    "median_instances": 9.0,
+    "median_max_mask_fraction": 0.574675
+  },
+  "frame_stats": [
+    {
+      "index": 0,
+      "frame_id": 1,
+      "instances": 10,
+      "max_mask_points": 8946
+    },
+    {
+      "index": 1,
+      "frame_id": 41,
+      "instances": 11,
+      "max_mask_points": 11734
+    },
+    {
+      "index": 2,
+      "frame_id": 81,
+      "instances": 9,
+      "max_mask_points": 17535
+    },
+    {
+      "index": 3,
+      "frame_id": 121,
+      "instances": 5,
+      "max_mask_points": 13367
+    },
+    {
+      "index": 4,
+      "frame_id": 161,
+      "instances": 4,
+      "max_mask_points": 11516
+    },
+    {
+      "index": 5,
+      "frame_id": 201,
+      "instances": 6,
+      "max_mask_points": 11247
+    },
+    {
+      "index": 6,
+      "frame_id": 241,
+      "instances": 6,
+      "max_mask_points": 11471
+    },
+    {
+      "index": 7,
+      "frame_id": 281,
+      "instances": 4,
+      "max_mask_points": 13246
+    },
+    {
+      "index": 8,
+      "frame_id": 321,
+      "instances": 8,
+      "max_mask_points": 12402
+    },
+    {
+      "index": 9,
+      "frame_id": 361,
+      "instances": 7,
+      "max_mask_points": 8440
+    },
+    {
+      "index": 10,
+      "frame_id": 401,
+      "instances": 8,
+      "max_mask_points": 13886
+    },
+    {
+      "index": 11,
+      "frame_id": 441,
+      "instances": 9,
+      "max_mask_points": 10970
+    },
+    {
+      "index": 12,
+      "frame_id": 481,
+      "instances": 6,
+      "max_mask_points": 10126
+    },
+    {
+      "index": 13,
+      "frame_id": 521,
+      "instances": 7,
+      "max_mask_points": 11308
+    },
+    {
+      "index": 14,
+      "frame_id": 561,
+      "instances": 11,
+      "max_mask_points": 11629
+    },
+    {
+      "index": 15,
+      "frame_id": 601,
+      "instances": 7,
+      "max_mask_points": 10230
+    },
+    {
+      "index": 16,
+      "frame_id": 641,
+      "instances": 10,
+      "max_mask_points": 13892
+    },
+    {
+      "index": 17,
+      "frame_id": 681,
+      "instances": 7,
+      "max_mask_points": 9265
+    },
+    {
+      "index": 18,
+      "frame_id": 721,
+      "instances": 8,
+      "max_mask_points": 14126
+    },
+    {
+      "index": 19,
+      "frame_id": 761,
+      "instances": 9,
+      "max_mask_points": 12368
+    },
+    {
+      "index": 20,
+      "frame_id": 801,
+      "instances": 12,
+      "max_mask_points": 12806
+    },
+    {
+      "index": 21,
+      "frame_id": 841,
+      "instances": 12,
+      "max_mask_points": 9463
+    },
+    {
+      "index": 22,
+      "frame_id": 881,
+      "instances": 10,
+      "max_mask_points": 15625
+    },
+    {
+      "index": 23,
+      "frame_id": 921,
+      "instances": 12,
+      "max_mask_points": 7017
+    },
+    {
+      "index": 24,
+      "frame_id": 961,
+      "instances": 14,
+      "max_mask_points": 8143
+    },
+    {
+      "index": 25,
+      "frame_id": 1001,
+      "instances": 13,
+      "max_mask_points": 7901
+    },
+    {
+      "index": 26,
+      "frame_id": 1041,
+      "instances": 10,
+      "max_mask_points": 4128
+    },
+    {
+      "index": 27,
+      "frame_id": 1081,
+      "instances": 14,
+      "max_mask_points": 19291
+    },
+    {
+      "index": 28,
+      "frame_id": 1121,
+      "instances": 11,
+      "max_mask_points": 6203
+    },
+    {
+      "index": 29,
+      "frame_id": 1161,
+      "instances": 13,
+      "max_mask_points": 15595
+    },
+    {
+      "index": 30,
+      "frame_id": 1201,
+      "instances": 12,
+      "max_mask_points": 5532
+    },
+    {
+      "index": 31,
+      "frame_id": 1241,
+      "instances": 13,
+      "max_mask_points": 3998
+    },
+    {
+      "index": 32,
+      "frame_id": 1281,
+      "instances": 9,
+      "max_mask_points": 8604
+    },
+    {
+      "index": 33,
+      "frame_id": 1321,
+      "instances": 9,
+      "max_mask_points": 7987
+    },
+    {
+      "index": 34,
+      "frame_id": 1361,
+      "instances": 5,
+      "max_mask_points": 8736
+    },
+    {
+      "index": 35,
+      "frame_id": 1401,
+      "instances": 9,
+      "max_mask_points": 9305
+    },
+    {
+      "index": 36,
+      "frame_id": 1441,
+      "instances": 4,
+      "max_mask_points": 11136
+    },
+    {
+      "index": 37,
+      "frame_id": 1481,
+      "instances": 13,
+      "max_mask_points": 11907
+    },
+    {
+      "index": 38,
+      "frame_id": 1521,
+      "instances": 10,
+      "max_mask_points": 9787
+    },
+    {
+      "index": 39,
+      "frame_id": 1561,
+      "instances": 15,
+      "max_mask_points": 5956
+    },
+    {
+      "index": 40,
+      "frame_id": 1601,
+      "instances": 12,
+      "max_mask_points": 12320
+    },
+    {
+      "index": 41,
+      "frame_id": 1641,
+      "instances": 16,
+      "max_mask_points": 8849
+    },
+    {
+      "index": 42,
+      "frame_id": 1681,
+      "instances": 4,
+      "max_mask_points": 11338
+    },
+    {
+      "index": 43,
+      "frame_id": 1721,
+      "instances": 2,
+      "max_mask_points": 13398
+    },
+    {
+      "index": 44,
+      "frame_id": 1761,
+      "instances": 9,
+      "max_mask_points": 5504
+    },
+    {
+      "index": 45,
+      "frame_id": 1801,
+      "instances": 6,
+      "max_mask_points": 9972
+    },
+    {
+      "index": 46,
+      "frame_id": 1841,
+      "instances": 5,
+      "max_mask_points": 12078
+    },
+    {
+      "index": 47,
+      "frame_id": 1881,
+      "instances": 6,
+      "max_mask_points": 11683
+    },
+    {
+      "index": 48,
+      "frame_id": 1921,
+      "instances": 9,
+      "max_mask_points": 10958
+    },
+    {
+      "index": 49,
+      "frame_id": 1961,
+      "instances": 8,
+      "max_mask_points": 8998
+    },
+    {
+      "index": 50,
+      "frame_id": 2001,
+      "instances": 9,
+      "max_mask_points": 9993
+    },
+    {
+      "index": 51,
+      "frame_id": 2041,
+      "instances": 5,
+      "max_mask_points": 13272
+    },
+    {
+      "index": 52,
+      "frame_id": 2081,
+      "instances": 8,
+      "max_mask_points": 12810
+    },
+    {
+      "index": 53,
+      "frame_id": 2121,
+      "instances": 6,
+      "max_mask_points": 9924
+    },
+    {
+      "index": 54,
+      "frame_id": 2161,
+      "instances": 11,
+      "max_mask_points": 11863
+    },
+    {
+      "index": 55,
+      "frame_id": 2201,
+      "instances": 13,
+      "max_mask_points": 8901
+    },
+    {
+      "index": 56,
+      "frame_id": 2241,
+      "instances": 9,
+      "max_mask_points": 8213
+    },
+    {
+      "index": 57,
+      "frame_id": 2281,
+      "instances": 13,
+      "max_mask_points": 8699
+    },
+    {
+      "index": 58,
+      "frame_id": 2321,
+      "instances": 16,
+      "max_mask_points": 9840
+    },
+    {
+      "index": 59,
+      "frame_id": 2361,
+      "instances": 10,
+      "max_mask_points": 12427
+    },
+    {
+      "index": 60,
+      "frame_id": 2401,
+      "instances": 13,
+      "max_mask_points": 12367
+    },
+    {
+      "index": 61,
+      "frame_id": 2441,
+      "instances": 10,
+      "max_mask_points": 12122
+    },
+    {
+      "index": 62,
+      "frame_id": 2481,
+      "instances": 6,
+      "max_mask_points": 12638
+    },
+    {
+      "index": 63,
+      "frame_id": 2521,
+      "instances": 4,
+      "max_mask_points": 11436
+    },
+    {
+      "index": 64,
+      "frame_id": 2561,
+      "instances": 4,
+      "max_mask_points": 11767
+    },
+    {
+      "index": 65,
+      "frame_id": 2601,
+      "instances": 5,
+      "max_mask_points": 10680
+    },
+    {
+      "index": 66,
+      "frame_id": 2641,
+      "instances": 7,
+      "max_mask_points": 12916
+    },
+    {
+      "index": 67,
+      "frame_id": 2681,
+      "instances": 7,
+      "max_mask_points": 18252
+    },
+    {
+      "index": 68,
+      "frame_id": 2721,
+      "instances": 2,
+      "max_mask_points": 13900
+    },
+    {
+      "index": 69,
+      "frame_id": 2761,
+      "instances": 5,
+      "max_mask_points": 13612
+    },
+    {
+      "index": 70,
+      "frame_id": 2801,
+      "instances": 5,
+      "max_mask_points": 18734
+    },
+    {
+      "index": 71,
+      "frame_id": 2841,
+      "instances": 4,
+      "max_mask_points": 17605
+    },
+    {
+      "index": 72,
+      "frame_id": 2881,
+      "instances": 4,
+      "max_mask_points": 18677
+    },
+    {
+      "index": 73,
+      "frame_id": 2921,
+      "instances": 7,
+      "max_mask_points": 14460
+    },
+    {
+      "index": 74,
+      "frame_id": 2961,
+      "instances": 7,
+      "max_mask_points": 16355
+    },
+    {
+      "index": 75,
+      "frame_id": 3001,
+      "instances": 4,
+      "max_mask_points": 12514
+    },
+    {
+      "index": 76,
+      "frame_id": 3041,
+      "instances": 12,
+      "max_mask_points": 10498
+    },
+    {
+      "index": 77,
+      "frame_id": 3081,
+      "instances": 11,
+      "max_mask_points": 12234
+    },
+    {
+      "index": 78,
+      "frame_id": 3121,
+      "instances": 8,
+      "max_mask_points": 13407
+    },
+    {
+      "index": 79,
+      "frame_id": 3161,
+      "instances": 9,
+      "max_mask_points": 2050
+    }
+  ]
+}
