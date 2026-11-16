@@ -38,7 +38,18 @@ def build_notebook():
         code(r"""%%bash
 set -euo pipefail
 W=/kaggle/working
+# Auto-detect where Kaggle mounted the input files
 SRC=/kaggle/input/notebooks/abdesselamaimen01/notebook8491230ab9
+if [ ! -f "$SRC/esam_env.tar.gz" ]; then
+  SRC=$(find /kaggle/input -name "esam_env.tar.gz" -exec dirname {} \; | head -n 1)
+fi
+echo "Using input directory: $SRC"
+if [ -z "$SRC" ] || [ ! -f "$SRC/esam_env.tar.gz" ]; then
+  echo "ERROR: Could not find esam_env.tar.gz in /kaggle/input!"
+  ls -la /kaggle/input
+  exit 1
+fi
+
 mkdir -p "$W/logs" "$W/.state" "$W/tools"
 echo "restoring saved environment"
 tar -xzf "$SRC/esam_env.tar.gz" -C "$W" --ignore-zeros \
