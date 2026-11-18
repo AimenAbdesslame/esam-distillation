@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.20)  17 NOV 2026 16:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.20)  18 NOV 2026 15:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -190,7 +190,24 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+) (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen178
+\Gin@req@width=\dimen179
+)
+(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2023-11-26 v7.01g Hypertext links for LaTeX
 
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
@@ -248,7 +265,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count282
 )
-\@linkdim=\dimen178
+\@linkdim=\dimen180
 \Hy@linkcounter=\count283
 \Hy@pagecounter=\count284
 
@@ -281,7 +298,7 @@ Package hyperref Info: Bookmarks ON on input line 4448.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4786.
-\XeTeXLinkMargin=\dimen179
+\XeTeXLinkMargin=\dimen181
 
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -292,8 +309,8 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
 \Fld@menulength=\count287
-\Field@Width=\dimen180
-\Fld@charsize=\dimen181
+\Field@Width=\dimen182
+\Fld@charsize=\dimen183
 Package hyperref Info: Hyper figures OFF on input line 6065.
 Package hyperref Info: Link nesting OFF on input line 6070.
 Package hyperref Info: Hyper index ON on input line 6073.
@@ -338,7 +355,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2025/02/06 v3.11 Customized lists
 \labelindent=\skip56
-\enit@outerparindent=\dimen182
+\enit@outerparindent=\dimen184
 \enit@toks=\toks26
 \enit@inbox=\box55
 \enit@count@id=\count293
@@ -352,8 +369,8 @@ y
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -common.tex
 \pgfutil@everybye=\toks27
-\pgfutil@tempdima=\dimen183
-\pgfutil@tempdimb=\dimen184
+\pgfutil@tempdima=\dimen185
+\pgfutil@tempdimb=\dimen186
 )
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
 -latex.def
@@ -368,24 +385,6 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
 
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
 sty
-(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
-fg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 107.
-)
-\Gin@req@height=\dimen185
-\Gin@req@width=\dimen186
-)
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
 sty
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
@@ -634,7 +633,7 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box70
 \tcb@temp=\box71
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 18.
+Package hyperref Info: Option `colorlinks' set `true' on input line 19.
 
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
 tex.def
@@ -644,24 +643,24 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (ESAM_Results_Evaluation_and_Analysis.aux)
 \openout1 = `ESAM_Results_Evaluation_and_Analysis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -671,15 +670,15 @@ LaTeX Font Info:    ... okay on input line 31.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* h-part:(L,W,R)=(65.04256pt, 467.42276pt, 65.04256pt)
+* v-part:(T,H,B)=(65.04256pt, 714.96173pt, 65.04256pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-37.0pt
+* \textwidth=467.42276pt
+* \textheight=714.96173pt
+* \oddsidemargin=-7.22743pt
+* \evensidemargin=-7.22743pt
+* \topmargin=-44.22743pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -723,85 +722,167 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 33.
  (ESAM_Results_Evaluation_and_Analysis.out)
 (ESAM_Results_Evaluation_and_Analysis.out)
 \@outlinefile=\write4
 \openout4 = `ESAM_Results_Evaluation_and_Analysis.out'.
 
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
-0.
-
-(C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
-File: omscmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
 
 
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
 
 
 (C:\Users\aimen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Overfull \hbox (169.31902pt too wide) in paragraph at lines 44--50
+ [][] 
+ []
+
+
+Overfull \hbox (2.07315pt too wide) in paragraph at lines 64--65
+[]\OT1/cmr/m/n/10.95 Deploy and eval-u-ate the ESAM++ model on an in-door RGB-D
+ stream with se-man-tic/instance
+ []
+
+
+Overfull \hbox (73.28532pt too wide) in paragraph at lines 80--81
+[]\OT1/cmr/bx/n/10.95 Teacher Model: \OT1/cmr/m/n/10.95 The of-fi-cial, fully p
+re-trained on-line \OT1/cmr/bx/n/10.95 ESAM-E \OT1/cmr/m/n/10.95 model (\OT1/cm
+tt/m/n/10.95 ESAM-E[]CA[]online[]epoch[]128.pth\OT1/cmr/m/n/10.95 ). 
+ []
+
+
+Overfull \hbox (8.75017pt too wide) in paragraph at lines 83--84
+[]\OT1/cmr/bx/n/10.95 Benchmark Dataset: \OT1/cmr/m/n/10.95 Sce-neNN scene 322 
+(80 se-quen-tial stream frames, 20,000 points/frame),
+ []
+
+<figures/scene_gt.png, id=10, 932.283pt x 356.90262pt>
+File: figures/scene_gt.png Graphic file (type png)
+<use figures/scene_gt.png>
+Package pdftex.def Info: figures/scene_gt.png  used on input line 88.
+(pdftex.def)             Requested size: 411.3343pt x 157.4733pt.
 [1
 
 {C:/Users/aimen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 1057) in paragraph at lines 113--113
-[]|\OT1/cmr/bx/n/10 Model / Ex-per-i-
+
+Package tabularx Warning: X Columns too narrow (table too wide)
+(tabularx)                 on input line 131.
+
+
+Overfull \hbox (15.02771pt too wide) in paragraph at lines 131--131
+[]|$[][]$| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\OT1/cmr/bx/n/10 Exp 2
+Overfull \hbox (21.94426pt too wide) in paragraph at lines 131--131
+[]|\OT1/cmr/bx/n/10 0.0729| 
  []
 
-[2] [3]
-Overfull \hbox (62.10742pt too wide) in paragraph at lines 177--178
-\OT1/cmr/m/it/10.95 weights are pub-licly avail-able on GitHub at [][]$\OT1/cmt
-t/m/it/10.95 https : / / github . com / AimenAbdesslame / esam-[]distillation$[
-][]\OT1/cmr/m/it/10.95 . 
+
+Overfull \hbox (17.77785pt too wide) in paragraph at lines 131--131
+[]|\OT1/cmr/m/n/10 0.0000| 
  []
 
-[4] (ESAM_Results_Evaluation_and_Analysis.aux)
+
+Overfull \hbox (17.77785pt too wide) in paragraph at lines 131--131
+[]|\OT1/cmr/m/n/10 0.0177| 
+ []
+
+
+Overfull \hbox (21.94426pt too wide) in paragraph at lines 131--131
+[]|\OT1/cmr/bx/n/10 0.0623| 
+ []
+
+
+Overfull \hbox (37.1715pt too wide) in alignment at lines 131--131
+[][][][][][][] 
+ []
+
+[2 <./figures/scene_gt.png>]
+Overfull \hbox (2.02751pt too wide) in paragraph at lines 139--140
+\OT1/cmr/m/n/10.95 labels with ex-act Sce-neNN ground-truth an-no-ta-tions im-p
+roved val-i-da-tion per-for-mance by $+514%$
+ []
+
+<figures/exp3_loss.png, id=40, 650.43pt x 289.08pt>
+File: figures/exp3_loss.png Graphic file (type png)
+<use figures/exp3_loss.png>
+Package pdftex.def Info: figures/exp3_loss.png  used on input line 145.
+(pdftex.def)             Requested size: 383.29008pt x 170.3528pt.
+<figures/teacher_preview.png, id=41, 859.49678pt x 388.70935pt>
+File: figures/teacher_preview.png Graphic file (type png)
+<use figures/teacher_preview.png>
+Package pdftex.def Info: figures/teacher_preview.png  used on input line 161.
+(pdftex.def)             Requested size: 224.36092pt x 101.46536pt.
+<figures/exp1_preview.png, id=42, 859.49678pt x 407.29308pt>
+File: figures/exp1_preview.png Graphic file (type png)
+<use figures/exp1_preview.png>
+Package pdftex.def Info: figures/exp1_preview.png  used on input line 166.
+(pdftex.def)             Requested size: 224.36092pt x 106.3163pt.
+<figures/exp2_preview.png, id=43, 859.49678pt x 407.29308pt>
+File: figures/exp2_preview.png Graphic file (type png)
+<use figures/exp2_preview.png>
+Package pdftex.def Info: figures/exp2_preview.png  used on input line 171.
+(pdftex.def)             Requested size: 224.36092pt x 106.3163pt.
+<figures/exp3_preview.png, id=44, 859.49678pt x 407.29308pt>
+File: figures/exp3_preview.png Graphic file (type png)
+<use figures/exp3_preview.png>
+Package pdftex.def Info: figures/exp3_preview.png  used on input line 176.
+(pdftex.def)             Requested size: 224.36092pt x 106.3163pt.
+
+Overfull \hbox (17.2755pt too wide) in paragraph at lines 186--188
+[]\OT1/cmr/bx/n/12 4.2 Di-ag-no-sis 2: Fixed 100-Query Over-lap Phe-nomenon[] \
+OT1/cmr/m/n/10.95 The One-Former3D/MixFormer3D
+ []
+
+[3 <./figures/exp3_loss.png>] [4 <./figures/teacher_preview.png> <./figures/exp
+1_preview.png> <./figures/exp2_preview.png> <./figures/exp3_preview.png>]
+Overfull \hbox (3.79211pt too wide) in paragraph at lines 213--214
+[]\OT1/cmr/bx/n/10.95 Full Open-Source Code-base: \OT1/cmr/m/n/10.95 Struc-ture
+d, mod-u-lar-ized, and doc-u-mented at [][]$\OT1/cmtt/m/n/10.95 https : / / git
+hub .
+ []
+
+[5] (ESAM_Results_Evaluation_and_Analysis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `ESAM_Results_Evaluation_and_Analysis.out' ha
 s not changed.
-(rerunfilecheck)             Checksum: B92BC683449817B1098C008A8474E4AC;3588.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 20661 strings out of 474486
- 386563 string characters out of 5743754
- 1938542 words of memory out of 5000000
- 42589 multiletter control sequences out of 15000+600000
- 568658 words of font info for 77 fonts, out of 8000000 for 9000
+ 20681 strings out of 474486
+ 387464 string characters out of 5743754
+ 1943542 words of memory out of 5000000
+ 42611 multiletter control sequences out of 15000+600000
+ 569111 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 101i,14n,107p,486b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 83i,14n,87p,551b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\aimen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Users/aimen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb><C:/Users/aimen/AppData/Local/Programs/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Users/aimen/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmitt10.pfb><C:/Users/aimen/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aimen/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aimen/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/aimen/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/ai
-men/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:
-/Users/aimen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti1
-0.pfb><C:/Users/aimen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmtt10.pfb>
-Output written on ESAM_Results_Evaluation_and_Analysis.pdf (4 pages, 172335 byt
-es).
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aimen/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aimen/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/aimen/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aimen/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/aim
+en/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/
+Users/aimen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10
+.pfb>
+Output written on ESAM_Results_Evaluation_and_Analysis.pdf (5 pages, 1862355 by
+tes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
+ 131 PDF objects out of 1000 (max. 8388607)
  28 named destinations out of 1000 (max. 500000)
- 117 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 43 words of extra memory for PDF output out of 10000 (max. 10000000)
 

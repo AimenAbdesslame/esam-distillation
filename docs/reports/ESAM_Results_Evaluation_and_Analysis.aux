@@ -2,18 +2,16 @@
 \providecommand\hyper@newdestlabel[2]{}
 \providecommand\HyField@AuxAddToFields[1]{}
 \providecommand\HyField@AuxAddToCoFields[2]{}
-\@writefile{toc}{\contentsline {section}{\numberline {1}Task Background and Context}{1}{section.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.1}Original Directive}{1}{subsection.1.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2}Experimental Blockers and Methodological Pivot}{1}{subsection.1.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {2}Methodological Distinction: Evaluation vs. Results Explanation}{2}{section.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {3}Quantitative Evaluation}{2}{section.3}\protected@file@percent }
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Quantitative Benchmark Evaluation on SceneNN 322 Validation Stream}}{2}{table.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {4}Qualitative 3D Evaluation: Diagnosing the Visuals in MeshLab}{3}{section.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Root Cause 1: Low Absolute AP (0.0\% to 1.3\%)}{3}{subsection.4.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Root Cause 2: The Fixed 100-Query Overlap Phenomenon}{3}{subsection.4.2}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Root Cause 3: Experiment-by-Experiment Visual Breakdown}{3}{subsection.4.3}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Root Cause 4: Severe Data and Compute Starvation}{3}{subsection.4.4}\protected@file@percent }
-\@writefile{toc}{\contentsline {section}{\numberline {5}Conclusions and Recommended Next Steps}{4}{section.5}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.1}Research Findings to Present to Dr. Gelencs\'er-Horv\'ath}{4}{subsection.5.1}\protected@file@percent }
-\@writefile{toc}{\contentsline {subsection}{\numberline {5.2}Direct Next Steps}{4}{subsection.5.2}\protected@file@percent }
-\gdef \@abspage@last{4}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces SceneNN 322 raw point cloud (frame 0). Left: Raw RGB camera frame. Right: Exact ground-truth instance annotations used for quantitative evaluation and supervision in Experiment 3.}}{2}{figure.1}\protected@file@percent }
+\newlabel{fig:scene_gt}{{1}{2}{SceneNN 322 raw point cloud (frame 0). Left: Raw RGB camera frame. Right: Exact ground-truth instance annotations used for quantitative evaluation and supervision in Experiment 3}{figure.1}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Quantitative Benchmark Results on SceneNN 322 Held-Out Validation Stream}}{2}{table.1}\protected@file@percent }
+\newlabel{tab:results}{{1}{2}{Quantitative Benchmark Results on SceneNN 322 Held-Out Validation Stream}{table.1}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Optimization trajectory for Experiment 3 (\texttt  {exp3\_frozen\_gt}). The training loss converges smoothly from $\sim 2.5$ down to $<1.0$, with validation loss reaching an optimum of $0.956$ over 56,229 steps.}}{3}{figure.2}\protected@file@percent }
+\newlabel{fig:loss}{{2}{3}{Optimization trajectory for Experiment 3 (\texttt {exp3\_frozen\_gt}). The training loss converges smoothly from $\sim 2.5$ down to $<1.0$, with validation loss reaching an optimum of $0.956$ over 56,229 steps}{figure.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces *}}{4}{figure.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces *}}{4}{figure.4}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces *}}{4}{figure.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces *}}{4}{figure.6}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Visual progression across experimental configurations on SceneNN 322 validation points. While Exp 1 collapses to unassigned background (grey) and Exp 2 exhibits noisy over-clustering, Exp 3 demonstrates cohesive geometric grouping around structural elements (walls, floors, major volumes).}}{4}{figure.7}\protected@file@percent }
+\newlabel{fig:comparison}{{7}{4}{Visual progression across experimental configurations on SceneNN 322 validation points. While Exp 1 collapses to unassigned background (grey) and Exp 2 exhibits noisy over-clustering, Exp 3 demonstrates cohesive geometric grouping around structural elements (walls, floors, major volumes)}{figure.7}{}}
+\gdef \@abspage@last{5}
