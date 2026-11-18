@@ -2,16 +2,7 @@
 \providecommand\hyper@newdestlabel[2]{}
 \providecommand\HyField@AuxAddToFields[1]{}
 \providecommand\HyField@AuxAddToCoFields[2]{}
-\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces SceneNN 322 raw point cloud (frame 0). Left: Raw RGB camera frame. Right: Exact ground-truth instance annotations used for quantitative evaluation and supervision in Experiment 3.}}{2}{figure.1}\protected@file@percent }
-\newlabel{fig:scene_gt}{{1}{2}{SceneNN 322 raw point cloud (frame 0). Left: Raw RGB camera frame. Right: Exact ground-truth instance annotations used for quantitative evaluation and supervision in Experiment 3}{figure.1}{}}
-\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Quantitative Benchmark Results on SceneNN 322 Held-Out Validation Stream}}{2}{table.1}\protected@file@percent }
-\newlabel{tab:results}{{1}{2}{Quantitative Benchmark Results on SceneNN 322 Held-Out Validation Stream}{table.1}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Optimization trajectory for Experiment 3 (\texttt  {exp3\_frozen\_gt}). The training loss converges smoothly from $\sim 2.5$ down to $<1.0$, with validation loss reaching an optimum of $0.956$ over 56,229 steps.}}{3}{figure.2}\protected@file@percent }
-\newlabel{fig:loss}{{2}{3}{Optimization trajectory for Experiment 3 (\texttt {exp3\_frozen\_gt}). The training loss converges smoothly from $\sim 2.5$ down to $<1.0$, with validation loss reaching an optimum of $0.956$ over 56,229 steps}{figure.2}{}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces *}}{4}{figure.3}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces *}}{4}{figure.4}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces *}}{4}{figure.5}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces *}}{4}{figure.6}\protected@file@percent }
-\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Visual progression across experimental configurations on SceneNN 322 validation points. While Exp 1 collapses to unassigned background (grey) and Exp 2 exhibits noisy over-clustering, Exp 3 demonstrates cohesive geometric grouping around structural elements (walls, floors, major volumes).}}{4}{figure.7}\protected@file@percent }
-\newlabel{fig:comparison}{{7}{4}{Visual progression across experimental configurations on SceneNN 322 validation points. While Exp 1 collapses to unassigned background (grey) and Exp 2 exhibits noisy over-clustering, Exp 3 demonstrates cohesive geometric grouping around structural elements (walls, floors, major volumes)}{figure.7}{}}
-\gdef \@abspage@last{5}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces  \textbf  {Left:} Ground-truth 3D point cloud of SceneNN scene 322 (each color = one object class). \textbf  {Right:} Teacher (ESAM-E) predictions on the same scene. The teacher correctly identifies most objects but produces noisy boundaries. }}{3}{figure.caption.1}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces  Student predictions: \textbf  {Exp 1} (left) — no predictions at all. \textbf  {Exp 2} (center) — sparse predictions appear. \textbf  {Exp 3} (right) — the most coherent output, with real object proposals. }}{4}{figure.caption.2}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces  Validation loss curve for Experiment 3. The loss decreases steadily across 56{,}229 training steps, confirming that the student is genuinely learning — this is \textit  {not} overfitting or random noise. }}{4}{figure.caption.3}\protected@file@percent }
+\gdef \@abspage@last{6}
